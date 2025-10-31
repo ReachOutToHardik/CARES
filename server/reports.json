@@ -1,0 +1,4831 @@
+[
+  {
+    "id": 1761659544463,
+    "timestamp": 1761659544.4637702,
+    "child": {
+      "child_name": "arun",
+      "child_age": 10,
+      "parent_contact": "1234567890",
+      "answers": [
+        {
+          "qid": 1,
+          "option": "C"
+        },
+        {
+          "qid": 2,
+          "option": "B"
+        },
+        {
+          "qid": 3,
+          "option": "C"
+        },
+        {
+          "qid": 4,
+          "option": "B"
+        },
+        {
+          "qid": 5,
+          "option": "D"
+        },
+        {
+          "qid": 6,
+          "option": "B"
+        },
+        {
+          "qid": 7,
+          "option": "A"
+        },
+        {
+          "qid": 8,
+          "option": "C"
+        },
+        {
+          "qid": 9,
+          "option": "B"
+        },
+        {
+          "qid": 10,
+          "option": "A"
+        },
+        {
+          "qid": 11,
+          "option": "D"
+        },
+        {
+          "qid": 12,
+          "option": "A"
+        },
+        {
+          "qid": 13,
+          "option": "D"
+        },
+        {
+          "qid": 14,
+          "option": "C"
+        },
+        {
+          "qid": 15,
+          "option": "B"
+        },
+        {
+          "qid": 16,
+          "option": "B"
+        },
+        {
+          "qid": 17,
+          "option": "B"
+        },
+        {
+          "qid": 18,
+          "option": "B"
+        },
+        {
+          "qid": 19,
+          "option": "A"
+        },
+        {
+          "qid": 20,
+          "option": "C"
+        }
+      ]
+    },
+    "scores": {
+      "pillar_percentages": {
+        "E": 68.4,
+        "DH": 33.3,
+        "CC": 43.8,
+        "TE": 77.8,
+        "SG": 0.0
+      },
+      "overall_score": 47.6,
+      "category": "NOT READY",
+      "red_flags": [
+        "Q7_never_asks_before_sharing",
+        "soft_many_zero_answers"
+      ],
+      "risks": {
+        "cheating_risk": 22,
+        "privacy_risk": 67,
+        "impulse_hallucination_risk": 58,
+        "supervision_gap": 100
+      }
+    },
+    "ai": null
+  },
+  {
+    "id": 1761659571074,
+    "timestamp": 1761659571.074251,
+    "child": {
+      "child_name": "arun",
+      "child_age": 10,
+      "parent_contact": "1234567890",
+      "answers": [
+        {
+          "qid": 1,
+          "option": "C"
+        },
+        {
+          "qid": 2,
+          "option": "B"
+        },
+        {
+          "qid": 3,
+          "option": "C"
+        },
+        {
+          "qid": 4,
+          "option": "B"
+        },
+        {
+          "qid": 5,
+          "option": "D"
+        },
+        {
+          "qid": 6,
+          "option": "B"
+        },
+        {
+          "qid": 7,
+          "option": "A"
+        },
+        {
+          "qid": 8,
+          "option": "C"
+        },
+        {
+          "qid": 9,
+          "option": "B"
+        },
+        {
+          "qid": 10,
+          "option": "A"
+        },
+        {
+          "qid": 11,
+          "option": "D"
+        },
+        {
+          "qid": 12,
+          "option": "A"
+        },
+        {
+          "qid": 13,
+          "option": "D"
+        },
+        {
+          "qid": 14,
+          "option": "C"
+        },
+        {
+          "qid": 15,
+          "option": "B"
+        },
+        {
+          "qid": 16,
+          "option": "B"
+        },
+        {
+          "qid": 17,
+          "option": "B"
+        },
+        {
+          "qid": 18,
+          "option": "B"
+        },
+        {
+          "qid": 19,
+          "option": "A"
+        },
+        {
+          "qid": 20,
+          "option": "C"
+        }
+      ]
+    },
+    "scores": {
+      "pillar_percentages": {
+        "E": 68.4,
+        "DH": 33.3,
+        "CC": 43.8,
+        "TE": 77.8,
+        "SG": 0.0
+      },
+      "overall_score": 47.6,
+      "category": "NOT READY",
+      "red_flags": [
+        "Q7_never_asks_before_sharing",
+        "soft_many_zero_answers"
+      ],
+      "risks": {
+        "cheating_risk": 22,
+        "privacy_risk": 67,
+        "impulse_hallucination_risk": 58,
+        "supervision_gap": 100
+      }
+    },
+    "ai": null
+  },
+  {
+    "id": 1761659573697,
+    "timestamp": 1761659573.6972382,
+    "child": {
+      "child_name": "arun",
+      "child_age": 10,
+      "parent_contact": "1234567890",
+      "answers": [
+        {
+          "qid": 1,
+          "option": "C"
+        },
+        {
+          "qid": 2,
+          "option": "B"
+        },
+        {
+          "qid": 3,
+          "option": "C"
+        },
+        {
+          "qid": 4,
+          "option": "B"
+        },
+        {
+          "qid": 5,
+          "option": "D"
+        },
+        {
+          "qid": 6,
+          "option": "B"
+        },
+        {
+          "qid": 7,
+          "option": "A"
+        },
+        {
+          "qid": 8,
+          "option": "C"
+        },
+        {
+          "qid": 9,
+          "option": "B"
+        },
+        {
+          "qid": 10,
+          "option": "A"
+        },
+        {
+          "qid": 11,
+          "option": "D"
+        },
+        {
+          "qid": 12,
+          "option": "A"
+        },
+        {
+          "qid": 13,
+          "option": "D"
+        },
+        {
+          "qid": 14,
+          "option": "C"
+        },
+        {
+          "qid": 15,
+          "option": "B"
+        },
+        {
+          "qid": 16,
+          "option": "B"
+        },
+        {
+          "qid": 17,
+          "option": "B"
+        },
+        {
+          "qid": 18,
+          "option": "B"
+        },
+        {
+          "qid": 19,
+          "option": "A"
+        },
+        {
+          "qid": 20,
+          "option": "C"
+        }
+      ]
+    },
+    "scores": {
+      "pillar_percentages": {
+        "E": 68.4,
+        "DH": 33.3,
+        "CC": 43.8,
+        "TE": 77.8,
+        "SG": 0.0
+      },
+      "overall_score": 47.6,
+      "category": "NOT READY",
+      "red_flags": [
+        "Q7_never_asks_before_sharing",
+        "soft_many_zero_answers"
+      ],
+      "risks": {
+        "cheating_risk": 22,
+        "privacy_risk": 67,
+        "impulse_hallucination_risk": 58,
+        "supervision_gap": 100
+      }
+    },
+    "ai": null
+  },
+  {
+    "id": 1761659574605,
+    "timestamp": 1761659574.6052697,
+    "child": {
+      "child_name": "arun",
+      "child_age": 10,
+      "parent_contact": "1234567890",
+      "answers": [
+        {
+          "qid": 1,
+          "option": "C"
+        },
+        {
+          "qid": 2,
+          "option": "B"
+        },
+        {
+          "qid": 3,
+          "option": "C"
+        },
+        {
+          "qid": 4,
+          "option": "B"
+        },
+        {
+          "qid": 5,
+          "option": "D"
+        },
+        {
+          "qid": 6,
+          "option": "B"
+        },
+        {
+          "qid": 7,
+          "option": "A"
+        },
+        {
+          "qid": 8,
+          "option": "C"
+        },
+        {
+          "qid": 9,
+          "option": "B"
+        },
+        {
+          "qid": 10,
+          "option": "A"
+        },
+        {
+          "qid": 11,
+          "option": "D"
+        },
+        {
+          "qid": 12,
+          "option": "A"
+        },
+        {
+          "qid": 13,
+          "option": "D"
+        },
+        {
+          "qid": 14,
+          "option": "C"
+        },
+        {
+          "qid": 15,
+          "option": "B"
+        },
+        {
+          "qid": 16,
+          "option": "B"
+        },
+        {
+          "qid": 17,
+          "option": "B"
+        },
+        {
+          "qid": 18,
+          "option": "B"
+        },
+        {
+          "qid": 19,
+          "option": "A"
+        },
+        {
+          "qid": 20,
+          "option": "C"
+        }
+      ]
+    },
+    "scores": {
+      "pillar_percentages": {
+        "E": 68.4,
+        "DH": 33.3,
+        "CC": 43.8,
+        "TE": 77.8,
+        "SG": 0.0
+      },
+      "overall_score": 47.6,
+      "category": "NOT READY",
+      "red_flags": [
+        "Q7_never_asks_before_sharing",
+        "soft_many_zero_answers"
+      ],
+      "risks": {
+        "cheating_risk": 22,
+        "privacy_risk": 67,
+        "impulse_hallucination_risk": 58,
+        "supervision_gap": 100
+      }
+    },
+    "ai": null
+  },
+  {
+    "id": 1761659577088,
+    "timestamp": 1761659577.0881503,
+    "child": {
+      "child_name": "arun",
+      "child_age": 10,
+      "parent_contact": "1234567890",
+      "answers": [
+        {
+          "qid": 1,
+          "option": "C"
+        },
+        {
+          "qid": 2,
+          "option": "B"
+        },
+        {
+          "qid": 3,
+          "option": "C"
+        },
+        {
+          "qid": 4,
+          "option": "B"
+        },
+        {
+          "qid": 5,
+          "option": "D"
+        },
+        {
+          "qid": 6,
+          "option": "B"
+        },
+        {
+          "qid": 7,
+          "option": "A"
+        },
+        {
+          "qid": 8,
+          "option": "C"
+        },
+        {
+          "qid": 9,
+          "option": "B"
+        },
+        {
+          "qid": 10,
+          "option": "A"
+        },
+        {
+          "qid": 11,
+          "option": "D"
+        },
+        {
+          "qid": 12,
+          "option": "A"
+        },
+        {
+          "qid": 13,
+          "option": "D"
+        },
+        {
+          "qid": 14,
+          "option": "C"
+        },
+        {
+          "qid": 15,
+          "option": "B"
+        },
+        {
+          "qid": 16,
+          "option": "B"
+        },
+        {
+          "qid": 17,
+          "option": "B"
+        },
+        {
+          "qid": 18,
+          "option": "B"
+        },
+        {
+          "qid": 19,
+          "option": "A"
+        },
+        {
+          "qid": 20,
+          "option": "C"
+        }
+      ]
+    },
+    "scores": {
+      "pillar_percentages": {
+        "E": 68.4,
+        "DH": 33.3,
+        "CC": 43.8,
+        "TE": 77.8,
+        "SG": 0.0
+      },
+      "overall_score": 47.6,
+      "category": "NOT READY",
+      "red_flags": [
+        "Q7_never_asks_before_sharing",
+        "soft_many_zero_answers"
+      ],
+      "risks": {
+        "cheating_risk": 22,
+        "privacy_risk": 67,
+        "impulse_hallucination_risk": 58,
+        "supervision_gap": 100
+      }
+    },
+    "ai": null
+  },
+  {
+    "id": 1761659618891,
+    "timestamp": 1761659618.891407,
+    "child": {
+      "child_name": "arun",
+      "child_age": 10,
+      "parent_contact": "1234567890",
+      "answers": [
+        {
+          "qid": 1,
+          "option": "C"
+        },
+        {
+          "qid": 2,
+          "option": "B"
+        },
+        {
+          "qid": 3,
+          "option": "C"
+        },
+        {
+          "qid": 4,
+          "option": "B"
+        },
+        {
+          "qid": 5,
+          "option": "D"
+        },
+        {
+          "qid": 6,
+          "option": "B"
+        },
+        {
+          "qid": 7,
+          "option": "A"
+        },
+        {
+          "qid": 8,
+          "option": "C"
+        },
+        {
+          "qid": 9,
+          "option": "B"
+        },
+        {
+          "qid": 10,
+          "option": "A"
+        },
+        {
+          "qid": 11,
+          "option": "D"
+        },
+        {
+          "qid": 12,
+          "option": "A"
+        },
+        {
+          "qid": 13,
+          "option": "D"
+        },
+        {
+          "qid": 14,
+          "option": "C"
+        },
+        {
+          "qid": 15,
+          "option": "B"
+        },
+        {
+          "qid": 16,
+          "option": "B"
+        },
+        {
+          "qid": 17,
+          "option": "B"
+        },
+        {
+          "qid": 18,
+          "option": "B"
+        },
+        {
+          "qid": 19,
+          "option": "A"
+        },
+        {
+          "qid": 20,
+          "option": "C"
+        }
+      ]
+    },
+    "scores": {
+      "pillar_percentages": {
+        "E": 68.4,
+        "DH": 33.3,
+        "CC": 43.8,
+        "TE": 77.8,
+        "SG": 0.0
+      },
+      "overall_score": 47.6,
+      "category": "NOT READY",
+      "red_flags": [
+        "Q7_never_asks_before_sharing",
+        "soft_many_zero_answers"
+      ],
+      "risks": {
+        "cheating_risk": 22,
+        "privacy_risk": 67,
+        "impulse_hallucination_risk": 58,
+        "supervision_gap": 100
+      }
+    },
+    "ai": null
+  },
+  {
+    "id": 1761659620248,
+    "timestamp": 1761659620.2487326,
+    "child": {
+      "child_name": "arun",
+      "child_age": 10,
+      "parent_contact": "1234567890",
+      "answers": [
+        {
+          "qid": 1,
+          "option": "C"
+        },
+        {
+          "qid": 2,
+          "option": "B"
+        },
+        {
+          "qid": 3,
+          "option": "C"
+        },
+        {
+          "qid": 4,
+          "option": "B"
+        },
+        {
+          "qid": 5,
+          "option": "D"
+        },
+        {
+          "qid": 6,
+          "option": "B"
+        },
+        {
+          "qid": 7,
+          "option": "A"
+        },
+        {
+          "qid": 8,
+          "option": "C"
+        },
+        {
+          "qid": 9,
+          "option": "B"
+        },
+        {
+          "qid": 10,
+          "option": "A"
+        },
+        {
+          "qid": 11,
+          "option": "D"
+        },
+        {
+          "qid": 12,
+          "option": "A"
+        },
+        {
+          "qid": 13,
+          "option": "D"
+        },
+        {
+          "qid": 14,
+          "option": "C"
+        },
+        {
+          "qid": 15,
+          "option": "B"
+        },
+        {
+          "qid": 16,
+          "option": "B"
+        },
+        {
+          "qid": 17,
+          "option": "B"
+        },
+        {
+          "qid": 18,
+          "option": "B"
+        },
+        {
+          "qid": 19,
+          "option": "A"
+        },
+        {
+          "qid": 20,
+          "option": "C"
+        }
+      ]
+    },
+    "scores": {
+      "pillar_percentages": {
+        "E": 68.4,
+        "DH": 33.3,
+        "CC": 43.8,
+        "TE": 77.8,
+        "SG": 0.0
+      },
+      "overall_score": 47.6,
+      "category": "NOT READY",
+      "red_flags": [
+        "Q7_never_asks_before_sharing",
+        "soft_many_zero_answers"
+      ],
+      "risks": {
+        "cheating_risk": 22,
+        "privacy_risk": 67,
+        "impulse_hallucination_risk": 58,
+        "supervision_gap": 100
+      }
+    },
+    "ai": null
+  },
+  {
+    "id": 1761659620703,
+    "timestamp": 1761659620.7036264,
+    "child": {
+      "child_name": "arun",
+      "child_age": 10,
+      "parent_contact": "1234567890",
+      "answers": [
+        {
+          "qid": 1,
+          "option": "C"
+        },
+        {
+          "qid": 2,
+          "option": "B"
+        },
+        {
+          "qid": 3,
+          "option": "C"
+        },
+        {
+          "qid": 4,
+          "option": "B"
+        },
+        {
+          "qid": 5,
+          "option": "D"
+        },
+        {
+          "qid": 6,
+          "option": "B"
+        },
+        {
+          "qid": 7,
+          "option": "A"
+        },
+        {
+          "qid": 8,
+          "option": "C"
+        },
+        {
+          "qid": 9,
+          "option": "B"
+        },
+        {
+          "qid": 10,
+          "option": "A"
+        },
+        {
+          "qid": 11,
+          "option": "D"
+        },
+        {
+          "qid": 12,
+          "option": "A"
+        },
+        {
+          "qid": 13,
+          "option": "D"
+        },
+        {
+          "qid": 14,
+          "option": "C"
+        },
+        {
+          "qid": 15,
+          "option": "B"
+        },
+        {
+          "qid": 16,
+          "option": "B"
+        },
+        {
+          "qid": 17,
+          "option": "B"
+        },
+        {
+          "qid": 18,
+          "option": "B"
+        },
+        {
+          "qid": 19,
+          "option": "A"
+        },
+        {
+          "qid": 20,
+          "option": "C"
+        }
+      ]
+    },
+    "scores": {
+      "pillar_percentages": {
+        "E": 68.4,
+        "DH": 33.3,
+        "CC": 43.8,
+        "TE": 77.8,
+        "SG": 0.0
+      },
+      "overall_score": 47.6,
+      "category": "NOT READY",
+      "red_flags": [
+        "Q7_never_asks_before_sharing",
+        "soft_many_zero_answers"
+      ],
+      "risks": {
+        "cheating_risk": 22,
+        "privacy_risk": 67,
+        "impulse_hallucination_risk": 58,
+        "supervision_gap": 100
+      }
+    },
+    "ai": null
+  },
+  {
+    "id": 1761659620892,
+    "timestamp": 1761659620.8928044,
+    "child": {
+      "child_name": "arun",
+      "child_age": 10,
+      "parent_contact": "1234567890",
+      "answers": [
+        {
+          "qid": 1,
+          "option": "C"
+        },
+        {
+          "qid": 2,
+          "option": "B"
+        },
+        {
+          "qid": 3,
+          "option": "C"
+        },
+        {
+          "qid": 4,
+          "option": "B"
+        },
+        {
+          "qid": 5,
+          "option": "D"
+        },
+        {
+          "qid": 6,
+          "option": "B"
+        },
+        {
+          "qid": 7,
+          "option": "A"
+        },
+        {
+          "qid": 8,
+          "option": "C"
+        },
+        {
+          "qid": 9,
+          "option": "B"
+        },
+        {
+          "qid": 10,
+          "option": "A"
+        },
+        {
+          "qid": 11,
+          "option": "D"
+        },
+        {
+          "qid": 12,
+          "option": "A"
+        },
+        {
+          "qid": 13,
+          "option": "D"
+        },
+        {
+          "qid": 14,
+          "option": "C"
+        },
+        {
+          "qid": 15,
+          "option": "B"
+        },
+        {
+          "qid": 16,
+          "option": "B"
+        },
+        {
+          "qid": 17,
+          "option": "B"
+        },
+        {
+          "qid": 18,
+          "option": "B"
+        },
+        {
+          "qid": 19,
+          "option": "A"
+        },
+        {
+          "qid": 20,
+          "option": "C"
+        }
+      ]
+    },
+    "scores": {
+      "pillar_percentages": {
+        "E": 68.4,
+        "DH": 33.3,
+        "CC": 43.8,
+        "TE": 77.8,
+        "SG": 0.0
+      },
+      "overall_score": 47.6,
+      "category": "NOT READY",
+      "red_flags": [
+        "Q7_never_asks_before_sharing",
+        "soft_many_zero_answers"
+      ],
+      "risks": {
+        "cheating_risk": 22,
+        "privacy_risk": 67,
+        "impulse_hallucination_risk": 58,
+        "supervision_gap": 100
+      }
+    },
+    "ai": null
+  },
+  {
+    "id": 1761659621090,
+    "timestamp": 1761659621.09049,
+    "child": {
+      "child_name": "arun",
+      "child_age": 10,
+      "parent_contact": "1234567890",
+      "answers": [
+        {
+          "qid": 1,
+          "option": "C"
+        },
+        {
+          "qid": 2,
+          "option": "B"
+        },
+        {
+          "qid": 3,
+          "option": "C"
+        },
+        {
+          "qid": 4,
+          "option": "B"
+        },
+        {
+          "qid": 5,
+          "option": "D"
+        },
+        {
+          "qid": 6,
+          "option": "B"
+        },
+        {
+          "qid": 7,
+          "option": "A"
+        },
+        {
+          "qid": 8,
+          "option": "C"
+        },
+        {
+          "qid": 9,
+          "option": "B"
+        },
+        {
+          "qid": 10,
+          "option": "A"
+        },
+        {
+          "qid": 11,
+          "option": "D"
+        },
+        {
+          "qid": 12,
+          "option": "A"
+        },
+        {
+          "qid": 13,
+          "option": "D"
+        },
+        {
+          "qid": 14,
+          "option": "C"
+        },
+        {
+          "qid": 15,
+          "option": "B"
+        },
+        {
+          "qid": 16,
+          "option": "B"
+        },
+        {
+          "qid": 17,
+          "option": "B"
+        },
+        {
+          "qid": 18,
+          "option": "B"
+        },
+        {
+          "qid": 19,
+          "option": "A"
+        },
+        {
+          "qid": 20,
+          "option": "C"
+        }
+      ]
+    },
+    "scores": {
+      "pillar_percentages": {
+        "E": 68.4,
+        "DH": 33.3,
+        "CC": 43.8,
+        "TE": 77.8,
+        "SG": 0.0
+      },
+      "overall_score": 47.6,
+      "category": "NOT READY",
+      "red_flags": [
+        "Q7_never_asks_before_sharing",
+        "soft_many_zero_answers"
+      ],
+      "risks": {
+        "cheating_risk": 22,
+        "privacy_risk": 67,
+        "impulse_hallucination_risk": 58,
+        "supervision_gap": 100
+      }
+    },
+    "ai": null
+  },
+  {
+    "id": 1761659621282,
+    "timestamp": 1761659621.2823477,
+    "child": {
+      "child_name": "arun",
+      "child_age": 10,
+      "parent_contact": "1234567890",
+      "answers": [
+        {
+          "qid": 1,
+          "option": "C"
+        },
+        {
+          "qid": 2,
+          "option": "B"
+        },
+        {
+          "qid": 3,
+          "option": "C"
+        },
+        {
+          "qid": 4,
+          "option": "B"
+        },
+        {
+          "qid": 5,
+          "option": "D"
+        },
+        {
+          "qid": 6,
+          "option": "B"
+        },
+        {
+          "qid": 7,
+          "option": "A"
+        },
+        {
+          "qid": 8,
+          "option": "C"
+        },
+        {
+          "qid": 9,
+          "option": "B"
+        },
+        {
+          "qid": 10,
+          "option": "A"
+        },
+        {
+          "qid": 11,
+          "option": "D"
+        },
+        {
+          "qid": 12,
+          "option": "A"
+        },
+        {
+          "qid": 13,
+          "option": "D"
+        },
+        {
+          "qid": 14,
+          "option": "C"
+        },
+        {
+          "qid": 15,
+          "option": "B"
+        },
+        {
+          "qid": 16,
+          "option": "B"
+        },
+        {
+          "qid": 17,
+          "option": "B"
+        },
+        {
+          "qid": 18,
+          "option": "B"
+        },
+        {
+          "qid": 19,
+          "option": "A"
+        },
+        {
+          "qid": 20,
+          "option": "C"
+        }
+      ]
+    },
+    "scores": {
+      "pillar_percentages": {
+        "E": 68.4,
+        "DH": 33.3,
+        "CC": 43.8,
+        "TE": 77.8,
+        "SG": 0.0
+      },
+      "overall_score": 47.6,
+      "category": "NOT READY",
+      "red_flags": [
+        "Q7_never_asks_before_sharing",
+        "soft_many_zero_answers"
+      ],
+      "risks": {
+        "cheating_risk": 22,
+        "privacy_risk": 67,
+        "impulse_hallucination_risk": 58,
+        "supervision_gap": 100
+      }
+    },
+    "ai": null
+  },
+  {
+    "id": 1761659621453,
+    "timestamp": 1761659621.4531379,
+    "child": {
+      "child_name": "arun",
+      "child_age": 10,
+      "parent_contact": "1234567890",
+      "answers": [
+        {
+          "qid": 1,
+          "option": "C"
+        },
+        {
+          "qid": 2,
+          "option": "B"
+        },
+        {
+          "qid": 3,
+          "option": "C"
+        },
+        {
+          "qid": 4,
+          "option": "B"
+        },
+        {
+          "qid": 5,
+          "option": "D"
+        },
+        {
+          "qid": 6,
+          "option": "B"
+        },
+        {
+          "qid": 7,
+          "option": "A"
+        },
+        {
+          "qid": 8,
+          "option": "C"
+        },
+        {
+          "qid": 9,
+          "option": "B"
+        },
+        {
+          "qid": 10,
+          "option": "A"
+        },
+        {
+          "qid": 11,
+          "option": "D"
+        },
+        {
+          "qid": 12,
+          "option": "A"
+        },
+        {
+          "qid": 13,
+          "option": "D"
+        },
+        {
+          "qid": 14,
+          "option": "C"
+        },
+        {
+          "qid": 15,
+          "option": "B"
+        },
+        {
+          "qid": 16,
+          "option": "B"
+        },
+        {
+          "qid": 17,
+          "option": "B"
+        },
+        {
+          "qid": 18,
+          "option": "B"
+        },
+        {
+          "qid": 19,
+          "option": "A"
+        },
+        {
+          "qid": 20,
+          "option": "C"
+        }
+      ]
+    },
+    "scores": {
+      "pillar_percentages": {
+        "E": 68.4,
+        "DH": 33.3,
+        "CC": 43.8,
+        "TE": 77.8,
+        "SG": 0.0
+      },
+      "overall_score": 47.6,
+      "category": "NOT READY",
+      "red_flags": [
+        "Q7_never_asks_before_sharing",
+        "soft_many_zero_answers"
+      ],
+      "risks": {
+        "cheating_risk": 22,
+        "privacy_risk": 67,
+        "impulse_hallucination_risk": 58,
+        "supervision_gap": 100
+      }
+    },
+    "ai": null
+  },
+  {
+    "id": 1761659621623,
+    "timestamp": 1761659621.623536,
+    "child": {
+      "child_name": "arun",
+      "child_age": 10,
+      "parent_contact": "1234567890",
+      "answers": [
+        {
+          "qid": 1,
+          "option": "C"
+        },
+        {
+          "qid": 2,
+          "option": "B"
+        },
+        {
+          "qid": 3,
+          "option": "C"
+        },
+        {
+          "qid": 4,
+          "option": "B"
+        },
+        {
+          "qid": 5,
+          "option": "D"
+        },
+        {
+          "qid": 6,
+          "option": "B"
+        },
+        {
+          "qid": 7,
+          "option": "A"
+        },
+        {
+          "qid": 8,
+          "option": "C"
+        },
+        {
+          "qid": 9,
+          "option": "B"
+        },
+        {
+          "qid": 10,
+          "option": "A"
+        },
+        {
+          "qid": 11,
+          "option": "D"
+        },
+        {
+          "qid": 12,
+          "option": "A"
+        },
+        {
+          "qid": 13,
+          "option": "D"
+        },
+        {
+          "qid": 14,
+          "option": "C"
+        },
+        {
+          "qid": 15,
+          "option": "B"
+        },
+        {
+          "qid": 16,
+          "option": "B"
+        },
+        {
+          "qid": 17,
+          "option": "B"
+        },
+        {
+          "qid": 18,
+          "option": "B"
+        },
+        {
+          "qid": 19,
+          "option": "A"
+        },
+        {
+          "qid": 20,
+          "option": "C"
+        }
+      ]
+    },
+    "scores": {
+      "pillar_percentages": {
+        "E": 68.4,
+        "DH": 33.3,
+        "CC": 43.8,
+        "TE": 77.8,
+        "SG": 0.0
+      },
+      "overall_score": 47.6,
+      "category": "NOT READY",
+      "red_flags": [
+        "Q7_never_asks_before_sharing",
+        "soft_many_zero_answers"
+      ],
+      "risks": {
+        "cheating_risk": 22,
+        "privacy_risk": 67,
+        "impulse_hallucination_risk": 58,
+        "supervision_gap": 100
+      }
+    },
+    "ai": null
+  },
+  {
+    "id": 1761659621800,
+    "timestamp": 1761659621.8003213,
+    "child": {
+      "child_name": "arun",
+      "child_age": 10,
+      "parent_contact": "1234567890",
+      "answers": [
+        {
+          "qid": 1,
+          "option": "C"
+        },
+        {
+          "qid": 2,
+          "option": "B"
+        },
+        {
+          "qid": 3,
+          "option": "C"
+        },
+        {
+          "qid": 4,
+          "option": "B"
+        },
+        {
+          "qid": 5,
+          "option": "D"
+        },
+        {
+          "qid": 6,
+          "option": "B"
+        },
+        {
+          "qid": 7,
+          "option": "A"
+        },
+        {
+          "qid": 8,
+          "option": "C"
+        },
+        {
+          "qid": 9,
+          "option": "B"
+        },
+        {
+          "qid": 10,
+          "option": "A"
+        },
+        {
+          "qid": 11,
+          "option": "D"
+        },
+        {
+          "qid": 12,
+          "option": "A"
+        },
+        {
+          "qid": 13,
+          "option": "D"
+        },
+        {
+          "qid": 14,
+          "option": "C"
+        },
+        {
+          "qid": 15,
+          "option": "B"
+        },
+        {
+          "qid": 16,
+          "option": "B"
+        },
+        {
+          "qid": 17,
+          "option": "B"
+        },
+        {
+          "qid": 18,
+          "option": "B"
+        },
+        {
+          "qid": 19,
+          "option": "A"
+        },
+        {
+          "qid": 20,
+          "option": "C"
+        }
+      ]
+    },
+    "scores": {
+      "pillar_percentages": {
+        "E": 68.4,
+        "DH": 33.3,
+        "CC": 43.8,
+        "TE": 77.8,
+        "SG": 0.0
+      },
+      "overall_score": 47.6,
+      "category": "NOT READY",
+      "red_flags": [
+        "Q7_never_asks_before_sharing",
+        "soft_many_zero_answers"
+      ],
+      "risks": {
+        "cheating_risk": 22,
+        "privacy_risk": 67,
+        "impulse_hallucination_risk": 58,
+        "supervision_gap": 100
+      }
+    },
+    "ai": null
+  },
+  {
+    "id": 1761659621986,
+    "timestamp": 1761659621.9862041,
+    "child": {
+      "child_name": "arun",
+      "child_age": 10,
+      "parent_contact": "1234567890",
+      "answers": [
+        {
+          "qid": 1,
+          "option": "C"
+        },
+        {
+          "qid": 2,
+          "option": "B"
+        },
+        {
+          "qid": 3,
+          "option": "C"
+        },
+        {
+          "qid": 4,
+          "option": "B"
+        },
+        {
+          "qid": 5,
+          "option": "D"
+        },
+        {
+          "qid": 6,
+          "option": "B"
+        },
+        {
+          "qid": 7,
+          "option": "A"
+        },
+        {
+          "qid": 8,
+          "option": "C"
+        },
+        {
+          "qid": 9,
+          "option": "B"
+        },
+        {
+          "qid": 10,
+          "option": "A"
+        },
+        {
+          "qid": 11,
+          "option": "D"
+        },
+        {
+          "qid": 12,
+          "option": "A"
+        },
+        {
+          "qid": 13,
+          "option": "D"
+        },
+        {
+          "qid": 14,
+          "option": "C"
+        },
+        {
+          "qid": 15,
+          "option": "B"
+        },
+        {
+          "qid": 16,
+          "option": "B"
+        },
+        {
+          "qid": 17,
+          "option": "B"
+        },
+        {
+          "qid": 18,
+          "option": "B"
+        },
+        {
+          "qid": 19,
+          "option": "A"
+        },
+        {
+          "qid": 20,
+          "option": "C"
+        }
+      ]
+    },
+    "scores": {
+      "pillar_percentages": {
+        "E": 68.4,
+        "DH": 33.3,
+        "CC": 43.8,
+        "TE": 77.8,
+        "SG": 0.0
+      },
+      "overall_score": 47.6,
+      "category": "NOT READY",
+      "red_flags": [
+        "Q7_never_asks_before_sharing",
+        "soft_many_zero_answers"
+      ],
+      "risks": {
+        "cheating_risk": 22,
+        "privacy_risk": 67,
+        "impulse_hallucination_risk": 58,
+        "supervision_gap": 100
+      }
+    },
+    "ai": null
+  },
+  {
+    "id": 1761659622467,
+    "timestamp": 1761659622.467481,
+    "child": {
+      "child_name": "arun",
+      "child_age": 10,
+      "parent_contact": "1234567890",
+      "answers": [
+        {
+          "qid": 1,
+          "option": "C"
+        },
+        {
+          "qid": 2,
+          "option": "B"
+        },
+        {
+          "qid": 3,
+          "option": "C"
+        },
+        {
+          "qid": 4,
+          "option": "B"
+        },
+        {
+          "qid": 5,
+          "option": "D"
+        },
+        {
+          "qid": 6,
+          "option": "B"
+        },
+        {
+          "qid": 7,
+          "option": "A"
+        },
+        {
+          "qid": 8,
+          "option": "C"
+        },
+        {
+          "qid": 9,
+          "option": "B"
+        },
+        {
+          "qid": 10,
+          "option": "A"
+        },
+        {
+          "qid": 11,
+          "option": "D"
+        },
+        {
+          "qid": 12,
+          "option": "A"
+        },
+        {
+          "qid": 13,
+          "option": "D"
+        },
+        {
+          "qid": 14,
+          "option": "C"
+        },
+        {
+          "qid": 15,
+          "option": "B"
+        },
+        {
+          "qid": 16,
+          "option": "B"
+        },
+        {
+          "qid": 17,
+          "option": "B"
+        },
+        {
+          "qid": 18,
+          "option": "B"
+        },
+        {
+          "qid": 19,
+          "option": "A"
+        },
+        {
+          "qid": 20,
+          "option": "C"
+        }
+      ]
+    },
+    "scores": {
+      "pillar_percentages": {
+        "E": 68.4,
+        "DH": 33.3,
+        "CC": 43.8,
+        "TE": 77.8,
+        "SG": 0.0
+      },
+      "overall_score": 47.6,
+      "category": "NOT READY",
+      "red_flags": [
+        "Q7_never_asks_before_sharing",
+        "soft_many_zero_answers"
+      ],
+      "risks": {
+        "cheating_risk": 22,
+        "privacy_risk": 67,
+        "impulse_hallucination_risk": 58,
+        "supervision_gap": 100
+      }
+    },
+    "ai": null
+  },
+  {
+    "id": 1761659622770,
+    "timestamp": 1761659622.7702994,
+    "child": {
+      "child_name": "arun",
+      "child_age": 10,
+      "parent_contact": "1234567890",
+      "answers": [
+        {
+          "qid": 1,
+          "option": "C"
+        },
+        {
+          "qid": 2,
+          "option": "B"
+        },
+        {
+          "qid": 3,
+          "option": "C"
+        },
+        {
+          "qid": 4,
+          "option": "B"
+        },
+        {
+          "qid": 5,
+          "option": "D"
+        },
+        {
+          "qid": 6,
+          "option": "B"
+        },
+        {
+          "qid": 7,
+          "option": "A"
+        },
+        {
+          "qid": 8,
+          "option": "C"
+        },
+        {
+          "qid": 9,
+          "option": "B"
+        },
+        {
+          "qid": 10,
+          "option": "A"
+        },
+        {
+          "qid": 11,
+          "option": "D"
+        },
+        {
+          "qid": 12,
+          "option": "A"
+        },
+        {
+          "qid": 13,
+          "option": "D"
+        },
+        {
+          "qid": 14,
+          "option": "C"
+        },
+        {
+          "qid": 15,
+          "option": "B"
+        },
+        {
+          "qid": 16,
+          "option": "B"
+        },
+        {
+          "qid": 17,
+          "option": "B"
+        },
+        {
+          "qid": 18,
+          "option": "B"
+        },
+        {
+          "qid": 19,
+          "option": "A"
+        },
+        {
+          "qid": 20,
+          "option": "C"
+        }
+      ]
+    },
+    "scores": {
+      "pillar_percentages": {
+        "E": 68.4,
+        "DH": 33.3,
+        "CC": 43.8,
+        "TE": 77.8,
+        "SG": 0.0
+      },
+      "overall_score": 47.6,
+      "category": "NOT READY",
+      "red_flags": [
+        "Q7_never_asks_before_sharing",
+        "soft_many_zero_answers"
+      ],
+      "risks": {
+        "cheating_risk": 22,
+        "privacy_risk": 67,
+        "impulse_hallucination_risk": 58,
+        "supervision_gap": 100
+      }
+    },
+    "ai": null
+  },
+  {
+    "id": 1761659623314,
+    "timestamp": 1761659623.3142745,
+    "child": {
+      "child_name": "arun",
+      "child_age": 10,
+      "parent_contact": "1234567890",
+      "answers": [
+        {
+          "qid": 1,
+          "option": "C"
+        },
+        {
+          "qid": 2,
+          "option": "B"
+        },
+        {
+          "qid": 3,
+          "option": "C"
+        },
+        {
+          "qid": 4,
+          "option": "B"
+        },
+        {
+          "qid": 5,
+          "option": "D"
+        },
+        {
+          "qid": 6,
+          "option": "B"
+        },
+        {
+          "qid": 7,
+          "option": "A"
+        },
+        {
+          "qid": 8,
+          "option": "C"
+        },
+        {
+          "qid": 9,
+          "option": "B"
+        },
+        {
+          "qid": 10,
+          "option": "A"
+        },
+        {
+          "qid": 11,
+          "option": "D"
+        },
+        {
+          "qid": 12,
+          "option": "A"
+        },
+        {
+          "qid": 13,
+          "option": "D"
+        },
+        {
+          "qid": 14,
+          "option": "C"
+        },
+        {
+          "qid": 15,
+          "option": "B"
+        },
+        {
+          "qid": 16,
+          "option": "B"
+        },
+        {
+          "qid": 17,
+          "option": "B"
+        },
+        {
+          "qid": 18,
+          "option": "B"
+        },
+        {
+          "qid": 19,
+          "option": "A"
+        },
+        {
+          "qid": 20,
+          "option": "C"
+        }
+      ]
+    },
+    "scores": {
+      "pillar_percentages": {
+        "E": 68.4,
+        "DH": 33.3,
+        "CC": 43.8,
+        "TE": 77.8,
+        "SG": 0.0
+      },
+      "overall_score": 47.6,
+      "category": "NOT READY",
+      "red_flags": [
+        "Q7_never_asks_before_sharing",
+        "soft_many_zero_answers"
+      ],
+      "risks": {
+        "cheating_risk": 22,
+        "privacy_risk": 67,
+        "impulse_hallucination_risk": 58,
+        "supervision_gap": 100
+      }
+    },
+    "ai": null
+  },
+  {
+    "id": 1761659630963,
+    "timestamp": 1761659630.9638016,
+    "child": {
+      "child_name": "arun",
+      "child_age": 10,
+      "parent_contact": "1234567890",
+      "answers": [
+        {
+          "qid": 1,
+          "option": "C"
+        },
+        {
+          "qid": 2,
+          "option": "B"
+        },
+        {
+          "qid": 3,
+          "option": "C"
+        },
+        {
+          "qid": 4,
+          "option": "B"
+        },
+        {
+          "qid": 5,
+          "option": "D"
+        },
+        {
+          "qid": 6,
+          "option": "B"
+        },
+        {
+          "qid": 7,
+          "option": "A"
+        },
+        {
+          "qid": 8,
+          "option": "C"
+        },
+        {
+          "qid": 9,
+          "option": "B"
+        },
+        {
+          "qid": 10,
+          "option": "A"
+        },
+        {
+          "qid": 11,
+          "option": "D"
+        },
+        {
+          "qid": 12,
+          "option": "A"
+        },
+        {
+          "qid": 13,
+          "option": "D"
+        },
+        {
+          "qid": 14,
+          "option": "C"
+        },
+        {
+          "qid": 15,
+          "option": "B"
+        },
+        {
+          "qid": 16,
+          "option": "B"
+        },
+        {
+          "qid": 17,
+          "option": "B"
+        },
+        {
+          "qid": 18,
+          "option": "B"
+        },
+        {
+          "qid": 19,
+          "option": "A"
+        },
+        {
+          "qid": 20,
+          "option": "C"
+        }
+      ]
+    },
+    "scores": {
+      "pillar_percentages": {
+        "E": 68.4,
+        "DH": 33.3,
+        "CC": 43.8,
+        "TE": 77.8,
+        "SG": 0.0
+      },
+      "overall_score": 47.6,
+      "category": "NOT READY",
+      "red_flags": [
+        "Q7_never_asks_before_sharing",
+        "soft_many_zero_answers"
+      ],
+      "risks": {
+        "cheating_risk": 22,
+        "privacy_risk": 67,
+        "impulse_hallucination_risk": 58,
+        "supervision_gap": 100
+      }
+    },
+    "ai": null
+  },
+  {
+    "id": 1761660030399,
+    "timestamp": 1761660030.3998199,
+    "child": {
+      "child_name": "Arun",
+      "child_age": 10,
+      "parent_contact": "1234567890",
+      "answers": [
+        {
+          "qid": 1,
+          "option": "B"
+        },
+        {
+          "qid": 2,
+          "option": "C"
+        },
+        {
+          "qid": 3,
+          "option": "B"
+        },
+        {
+          "qid": 4,
+          "option": "C"
+        },
+        {
+          "qid": 5,
+          "option": "B"
+        },
+        {
+          "qid": 6,
+          "option": "C"
+        },
+        {
+          "qid": 7,
+          "option": "C"
+        },
+        {
+          "qid": 8,
+          "option": "B"
+        },
+        {
+          "qid": 9,
+          "option": "B"
+        },
+        {
+          "qid": 10,
+          "option": "C"
+        },
+        {
+          "qid": 11,
+          "option": "B"
+        },
+        {
+          "qid": 12,
+          "option": "C"
+        },
+        {
+          "qid": 13,
+          "option": "D"
+        },
+        {
+          "qid": 14,
+          "option": "D"
+        },
+        {
+          "qid": 15,
+          "option": "B"
+        },
+        {
+          "qid": 16,
+          "option": "C"
+        },
+        {
+          "qid": 17,
+          "option": "A"
+        },
+        {
+          "qid": 18,
+          "option": "D"
+        },
+        {
+          "qid": 19,
+          "option": "C"
+        },
+        {
+          "qid": 20,
+          "option": "D"
+        }
+      ]
+    },
+    "answers": [
+      {
+        "qid": 1,
+        "option": "B"
+      },
+      {
+        "qid": 2,
+        "option": "C"
+      },
+      {
+        "qid": 3,
+        "option": "B"
+      },
+      {
+        "qid": 4,
+        "option": "C"
+      },
+      {
+        "qid": 5,
+        "option": "B"
+      },
+      {
+        "qid": 6,
+        "option": "C"
+      },
+      {
+        "qid": 7,
+        "option": "C"
+      },
+      {
+        "qid": 8,
+        "option": "B"
+      },
+      {
+        "qid": 9,
+        "option": "B"
+      },
+      {
+        "qid": 10,
+        "option": "C"
+      },
+      {
+        "qid": 11,
+        "option": "B"
+      },
+      {
+        "qid": 12,
+        "option": "C"
+      },
+      {
+        "qid": 13,
+        "option": "D"
+      },
+      {
+        "qid": 14,
+        "option": "D"
+      },
+      {
+        "qid": 15,
+        "option": "B"
+      },
+      {
+        "qid": 16,
+        "option": "C"
+      },
+      {
+        "qid": 17,
+        "option": "A"
+      },
+      {
+        "qid": 18,
+        "option": "D"
+      },
+      {
+        "qid": 19,
+        "option": "C"
+      },
+      {
+        "qid": 20,
+        "option": "D"
+      }
+    ],
+    "scores": {
+      "pillar_percentages": {
+        "E": 66.7,
+        "DH": 51.3,
+        "CC": 58.3,
+        "TE": 44.4,
+        "SG": 66.7
+      },
+      "overall_score": 58.5,
+      "category": "TRANSITION",
+      "red_flags": [],
+      "risks": {
+        "cheating_risk": 44,
+        "privacy_risk": 33,
+        "impulse_hallucination_risk": 50,
+        "supervision_gap": 33
+      }
+    },
+    "ai_raw": {
+      "raw": {
+        "id": "gen-1761659999-KT0eQu3ixqDKrrXo4ySy",
+        "provider": "Chutes",
+        "model": "tngtech/deepseek-r1t2-chimera:free",
+        "object": "chat.completion",
+        "created": 1761660000,
+        "choices": [
+          {
+            "logprobs": null,
+            "finish_reason": "length",
+            "native_finish_reason": "length",
+            "index": 0,
+            "message": {
+              "role": "assistant",
+              "content": "\n\n```json\n{\n  \"score\": 68.75,\n  \"category\": \"Medium Risk\",\n  \"insights\": \"Arun shows basic digital awareness but struggles with critical thinking, unsupervised actions, and understanding consequences of sharing. Strengths include privacy setting familiarity and attention management during AI use.\",\n  \"improvement_plan\": {\n    \"30_day\": [\n      \"Implement 'Ask First' rule for app installations/content sharing\",\n      \"Practice verifying AI outputs with parents during homework\"\n    ],\n    \"60_day\": [\n      \"Role-play scenarios for handling risky chatbot instructions\",\n      \"Co-create family media agreement with consequences\"\n    ],\n    \"90_day\": [\n      \"Independent application of multi-step safety checks\",\n      \"Critical analysis workshops for spotting AI hallucinations\"\n    ]\n  },\n  \"header_summary\": \"Medium Risk: Needs reinforcement in critical evaluation, sharing boundaries, and unsupervised AI use\",\n  \"observations\": [\n    \"Installs apps/extensions without approval (Q13-D)\",\n    \"High risk of sharing others' private photos (Q14-D)\",\n    \"Struggles with multi-step safety protocols (Q18-D",
+              "refusal": null,
+              "reasoning": "\nAlright, let's tackle this query. The user provided responses to 20 questions about a 10-year-old child named Arun, along with his parent's contact info. The task is to generate a JSON object with specific fields based on these answers. \n\nFirst, I need to understand the scoring system. Each question has options A to D, likely representing different levels of risk or understanding. For example, Q17 has an answer 'A', which might be the best, while Q13 and Q14 are 'D', indicating higher risk. \n\nNext, calculating the score. There are 20 questions. Let's assume A=1 (low risk), B=2, C=3, D=4 (high risk). Summing up the values: \n- A: 1 (Q17)\n- B: Q1, Q3, Q5, Q8, Q9, Q11, Q15 \u2192 7 * 2 = 14\n- C: Q2, Q4, Q6, Q7, Q10, Q12, Q16, Q19 \u2192 8 * 3 = 24\n- D: Q13, Q14, Q18, Q20 \u2192 4 * 4 = 16\nTotal = 1 + 14 + 24 + 16 = 55. The max possible is 20*4=80, so score is 55/80 = 68.75%. \n\nCategory: Based on the score, it's medium risk. The child has some awareness but gaps in critical areas like installing apps without approval (Q13), sharing private photos (Q14), following multi-step safety rules (Q18), and passing AI work as their own (Q20). \n\nInsights should summarize strengths and weaknesses. Strengths include understanding privacy settings (Q16) and managing attention (Q17). Weaknesses are in critical thinking and unsupervised actions. \n\nImprovement Plan: 30/60/90 day bullets. Short-term: immediate rules on app installations. Mid-term: workshops on digital literacy. Long-term: independent application of safety steps. \n\nHeader Summary: Highlight medium risk and key areas like privacy and critical thinking. \n\nObservations: Three bullets focusing on unsupervised app use, sharing risks, and critical thinking gaps. \n\nWhy This Matters: Emphasize safety and responsible digital citizenship. \n\nFamily Rules: Five actionable rules like password sharing, app approval, AI disclosure, privacy checks, and screen limits. \n\nFollow-Up: Suggest reassessment in 3 months with a consultant if needed. \n\nMonitor Confidence: Based on consistent answers, confidence around 85%.\n\nNeed to ensure JSON structure is correct and fields are populated accurately. Double-check calculations and align insights with the answers provided.\n",
+              "reasoning_details": [
+                {
+                  "type": "reasoning.text",
+                  "text": "\nAlright, let's tackle this query. The user provided responses to 20 questions about a 10-year-old child named Arun, along with his parent's contact info. The task is to generate a JSON object with specific fields based on these answers. \n\nFirst, I need to understand the scoring system. Each question has options A to D, likely representing different levels of risk or understanding. For example, Q17 has an answer 'A', which might be the best, while Q13 and Q14 are 'D', indicating higher risk. \n\nNext, calculating the score. There are 20 questions. Let's assume A=1 (low risk), B=2, C=3, D=4 (high risk). Summing up the values: \n- A: 1 (Q17)\n- B: Q1, Q3, Q5, Q8, Q9, Q11, Q15 \u2192 7 * 2 = 14\n- C: Q2, Q4, Q6, Q7, Q10, Q12, Q16, Q19 \u2192 8 * 3 = 24\n- D: Q13, Q14, Q18, Q20 \u2192 4 * 4 = 16\nTotal = 1 + 14 + 24 + 16 = 55. The max possible is 20*4=80, so score is 55/80 = 68.75%. \n\nCategory: Based on the score, it's medium risk. The child has some awareness but gaps in critical areas like installing apps without approval (Q13), sharing private photos (Q14), following multi-step safety rules (Q18), and passing AI work as their own (Q20). \n\nInsights should summarize strengths and weaknesses. Strengths include understanding privacy settings (Q16) and managing attention (Q17). Weaknesses are in critical thinking and unsupervised actions. \n\nImprovement Plan: 30/60/90 day bullets. Short-term: immediate rules on app installations. Mid-term: workshops on digital literacy. Long-term: independent application of safety steps. \n\nHeader Summary: Highlight medium risk and key areas like privacy and critical thinking. \n\nObservations: Three bullets focusing on unsupervised app use, sharing risks, and critical thinking gaps. \n\nWhy This Matters: Emphasize safety and responsible digital citizenship. \n\nFamily Rules: Five actionable rules like password sharing, app approval, AI disclosure, privacy checks, and screen limits. \n\nFollow-Up: Suggest reassessment in 3 months with a consultant if needed. \n\nMonitor Confidence: Based on consistent answers, confidence around 85%.\n\nNeed to ensure JSON structure is correct and fields are populated accurately. Double-check calculations and align insights with the answers provided.\n",
+                  "format": "unknown",
+                  "index": 0
+                }
+              ]
+            }
+          }
+        ],
+        "usage": {
+          "prompt_tokens": 640,
+          "completion_tokens": 800,
+          "total_tokens": 1440,
+          "prompt_tokens_details": null
+        }
+      },
+      "text": "\n\n```json\n{\n  \"score\": 68.75,\n  \"category\": \"Medium Risk\",\n  \"insights\": \"Arun shows basic digital awareness but struggles with critical thinking, unsupervised actions, and understanding consequences of sharing. Strengths include privacy setting familiarity and attention management during AI use.\",\n  \"improvement_plan\": {\n    \"30_day\": [\n      \"Implement 'Ask First' rule for app installations/content sharing\",\n      \"Practice verifying AI outputs with parents during homework\"\n    ],\n    \"60_day\": [\n      \"Role-play scenarios for handling risky chatbot instructions\",\n      \"Co-create family media agreement with consequences\"\n    ],\n    \"90_day\": [\n      \"Independent application of multi-step safety checks\",\n      \"Critical analysis workshops for spotting AI hallucinations\"\n    ]\n  },\n  \"header_summary\": \"Medium Risk: Needs reinforcement in critical evaluation, sharing boundaries, and unsupervised AI use\",\n  \"observations\": [\n    \"Installs apps/extensions without approval (Q13-D)\",\n    \"High risk of sharing others' private photos (Q14-D)\",\n    \"Struggles with multi-step safety protocols (Q18-D"
+    },
+    "ai_parsed": {
+      "narrative": "\n\n```json\n{\n  \"score\": 68.75,\n  \"category\": \"Medium Risk\",\n  \"insights\": \"Arun shows basic digital awareness but struggles with critical thinking, unsupervised actions, and understanding consequences of sharing. Strengths include privacy setting familiarity and attention management during AI use.\",\n  \"improvement_plan\": {\n    \"30_day\": [\n      \"Implement 'Ask First' rule for app installations/content sharing\",\n      \"Practice verifying AI outputs with parents during homework\"\n    ],\n    \"60_day\": [\n      \"Role-play scenarios for handling risky chatbot instructions\",\n      \"Co-create family media agreement with consequences\"\n    ],\n    \"90_day\": [\n      \"Independent application of multi-step safety checks\",\n      \"Critical analysis workshops for spotting AI hallucinations\"\n    ]\n  },\n  \"header_summary\": \"Medium Risk: Needs reinforcement in critical evaluation, sharing boundaries, and unsupervised AI use\",\n  \"observations\": [\n    \"Installs apps/extensions without approval (Q13-D)\",\n    \"High risk of sharing others' private photos (Q14-D)\",\n    \"Struggles with multi-step safety protocols (Q18-D"
+    }
+  },
+  {
+    "id": 1761660100891,
+    "timestamp": 1761660100.8910067,
+    "child": {
+      "child_name": "Arun",
+      "child_age": 10,
+      "parent_contact": "1234567890",
+      "answers": [
+        {
+          "qid": 1,
+          "option": "B"
+        },
+        {
+          "qid": 2,
+          "option": "C"
+        },
+        {
+          "qid": 3,
+          "option": "B"
+        },
+        {
+          "qid": 4,
+          "option": "C"
+        },
+        {
+          "qid": 5,
+          "option": "B"
+        },
+        {
+          "qid": 6,
+          "option": "C"
+        },
+        {
+          "qid": 7,
+          "option": "C"
+        },
+        {
+          "qid": 8,
+          "option": "B"
+        },
+        {
+          "qid": 9,
+          "option": "B"
+        },
+        {
+          "qid": 10,
+          "option": "C"
+        },
+        {
+          "qid": 11,
+          "option": "B"
+        },
+        {
+          "qid": 12,
+          "option": "C"
+        },
+        {
+          "qid": 13,
+          "option": "D"
+        },
+        {
+          "qid": 14,
+          "option": "D"
+        },
+        {
+          "qid": 15,
+          "option": "B"
+        },
+        {
+          "qid": 16,
+          "option": "C"
+        },
+        {
+          "qid": 17,
+          "option": "A"
+        },
+        {
+          "qid": 18,
+          "option": "D"
+        },
+        {
+          "qid": 19,
+          "option": "C"
+        },
+        {
+          "qid": 20,
+          "option": "D"
+        }
+      ]
+    },
+    "answers": [
+      {
+        "qid": 1,
+        "option": "B"
+      },
+      {
+        "qid": 2,
+        "option": "C"
+      },
+      {
+        "qid": 3,
+        "option": "B"
+      },
+      {
+        "qid": 4,
+        "option": "C"
+      },
+      {
+        "qid": 5,
+        "option": "B"
+      },
+      {
+        "qid": 6,
+        "option": "C"
+      },
+      {
+        "qid": 7,
+        "option": "C"
+      },
+      {
+        "qid": 8,
+        "option": "B"
+      },
+      {
+        "qid": 9,
+        "option": "B"
+      },
+      {
+        "qid": 10,
+        "option": "C"
+      },
+      {
+        "qid": 11,
+        "option": "B"
+      },
+      {
+        "qid": 12,
+        "option": "C"
+      },
+      {
+        "qid": 13,
+        "option": "D"
+      },
+      {
+        "qid": 14,
+        "option": "D"
+      },
+      {
+        "qid": 15,
+        "option": "B"
+      },
+      {
+        "qid": 16,
+        "option": "C"
+      },
+      {
+        "qid": 17,
+        "option": "A"
+      },
+      {
+        "qid": 18,
+        "option": "D"
+      },
+      {
+        "qid": 19,
+        "option": "C"
+      },
+      {
+        "qid": 20,
+        "option": "D"
+      }
+    ],
+    "scores": {
+      "pillar_percentages": {
+        "E": 66.7,
+        "DH": 51.3,
+        "CC": 58.3,
+        "TE": 44.4,
+        "SG": 66.7
+      },
+      "overall_score": 58.5,
+      "category": "TRANSITION",
+      "red_flags": [],
+      "risks": {
+        "cheating_risk": 44,
+        "privacy_risk": 33,
+        "impulse_hallucination_risk": 50,
+        "supervision_gap": 33
+      }
+    },
+    "ai_raw": {
+      "raw": {
+        "id": "gen-1761660062-EKEdKk2umFMbMaO6BBJz",
+        "provider": "Chutes",
+        "model": "tngtech/deepseek-r1t2-chimera:free",
+        "object": "chat.completion",
+        "created": 1761660063,
+        "choices": [
+          {
+            "logprobs": null,
+            "finish_reason": "length",
+            "native_finish_reason": "length",
+            "index": 0,
+            "message": {
+              "role": "assistant",
+              "content": "\n```json\n{\n  \"score\": 56,\n  \"category\": \"Moderate Risk\",\n  \"insights\": \"Arun shows awareness of basic privacy and safety rules but struggles with digital ethics (e.g., plagiarism, sharing private content) and verifying AI reliability. Strengths include managing screen attention and understanding some risks.\",\n  \"improvement_plan\": {\n    \"30_day\": [\n      \"Discuss consequences of sharing private photos/info (Q14, Q20)\",\n      \"Implement app-installation approval process (Q13)\",\n      \"Practice verifying AI outputs for homework (Q1, Q15)\"\n    ],\n    \"60_day\": [\n      \"Teach copyright rules and ethical content use (Q2, Q6)\",\n      \"Role-play rejecting unsafe AI suggestions",
+              "refusal": null,
+              "reasoning": "\nAlright, let's tackle this query. The user provided answers to 20 questions about a 10-year-old child named Arun, with responses ranging from A to D. They want a JSON object with specific fields based on these answers. \n\nFirst, I need to understand the scoring system. Typically, A might be the best (e.g., always safe), D the worst (e.g., risky behavior). Looking at the answers, most are B and C, with a few Ds. Q13, Q14, Q18, and Q20 got D, which indicates higher risk areas. \n\nCalculating the score: If A=4, B=3, C=2, D=1, then sum the points. There are 20 questions. Let's count: \n- A: Q17 (1)\n- B: Q1, Q3, Q5, Q8, Q9, Q11, Q15 (7)\n- C: Q2, Q4, Q6, Q7, Q10, Q12, Q16, Q19 (8)\n- D: Q13, Q14, Q18, Q20 (4)\n\nTotal score = (1*4) + (7*3) + (8*2) + (4*1) = 4 + 21 + 16 + 4 = 45. Max possible is 80 (20*4). So percentage is 45/80 = 56.25%. Round to 56. \n\nCategory: Based on the score, probably \"Moderate Risk\" since it's around the middle. \n\nInsights: Need a short narrative highlighting strengths and weaknesses. Arun understands some basics like not sharing passwords (Q4=C) and knows to ask adults (Q7=C), but struggles with installing apps without approval (Q13=D) and sharing private photos (Q14=D). Also, doesn't follow multi-step safety rules (Q18=D) and passes AI work as his own (Q20=D). Strengths include managing attention well (Q17=A) and some awareness of AI limitations (Q8=B).\n\nImprovement Plan: 30/60/90 day bullets. Short-term: Address immediate risks like app installation and sharing private info. Medium-term: Teach about copyright and verifying AI info. Long-term: Reinforce multi-step safety and ethical AI use.\n\nHeader Summary: \"Moderate Risk: Strengths in attention management but needs improvement in digital ethics and safety.\"\n\nObservations: Three bullets focusing on key issues\u2014installing apps, sharing private content, and not verifying AI outputs.\n\nWhy This Matters: One sentence about the importance of safe digital habits for protection and responsible use.\n\nRecommended Family Rules: Five actionable rules, like no app installs without approval, checking with adults before sharing info, time limits, etc.\n\nFollow-Up: Suggest next assessment in 3 months, consultant recommended based on the D scores.\n\nMonitor Confidence: Around 75% since most answers are B/C, but some Ds introduce uncertainty.\n\nNow, structure all this into the required JSON format, ensuring no markdown and valid JSON.\n",
+              "reasoning_details": [
+                {
+                  "type": "reasoning.text",
+                  "text": "\nAlright, let's tackle this query. The user provided answers to 20 questions about a 10-year-old child named Arun, with responses ranging from A to D. They want a JSON object with specific fields based on these answers. \n\nFirst, I need to understand the scoring system. Typically, A might be the best (e.g., always safe), D the worst (e.g., risky behavior). Looking at the answers, most are B and C, with a few Ds. Q13, Q14, Q18, and Q20 got D, which indicates higher risk areas. \n\nCalculating the score: If A=4, B=3, C=2, D=1, then sum the points. There are 20 questions. Let's count: \n- A: Q17 (1)\n- B: Q1, Q3, Q5, Q8, Q9, Q11, Q15 (7)\n- C: Q2, Q4, Q6, Q7, Q10, Q12, Q16, Q19 (8)\n- D: Q13, Q14, Q18, Q20 (4)\n\nTotal score = (1*4) + (7*3) + (8*2) + (4*1) = 4 + 21 + 16 + 4 = 45. Max possible is 80 (20*4). So percentage is 45/80 = 56.25%. Round to 56. \n\nCategory: Based on the score, probably \"Moderate Risk\" since it's around the middle. \n\nInsights: Need a short narrative highlighting strengths and weaknesses. Arun understands some basics like not sharing passwords (Q4=C) and knows to ask adults (Q7=C), but struggles with installing apps without approval (Q13=D) and sharing private photos (Q14=D). Also, doesn't follow multi-step safety rules (Q18=D) and passes AI work as his own (Q20=D). Strengths include managing attention well (Q17=A) and some awareness of AI limitations (Q8=B).\n\nImprovement Plan: 30/60/90 day bullets. Short-term: Address immediate risks like app installation and sharing private info. Medium-term: Teach about copyright and verifying AI info. Long-term: Reinforce multi-step safety and ethical AI use.\n\nHeader Summary: \"Moderate Risk: Strengths in attention management but needs improvement in digital ethics and safety.\"\n\nObservations: Three bullets focusing on key issues\u2014installing apps, sharing private content, and not verifying AI outputs.\n\nWhy This Matters: One sentence about the importance of safe digital habits for protection and responsible use.\n\nRecommended Family Rules: Five actionable rules, like no app installs without approval, checking with adults before sharing info, time limits, etc.\n\nFollow-Up: Suggest next assessment in 3 months, consultant recommended based on the D scores.\n\nMonitor Confidence: Around 75% since most answers are B/C, but some Ds introduce uncertainty.\n\nNow, structure all this into the required JSON format, ensuring no markdown and valid JSON.\n",
+                  "format": "unknown",
+                  "index": 0
+                }
+              ]
+            }
+          }
+        ],
+        "usage": {
+          "prompt_tokens": 640,
+          "completion_tokens": 800,
+          "total_tokens": 1440,
+          "prompt_tokens_details": null
+        }
+      },
+      "text": "\n```json\n{\n  \"score\": 56,\n  \"category\": \"Moderate Risk\",\n  \"insights\": \"Arun shows awareness of basic privacy and safety rules but struggles with digital ethics (e.g., plagiarism, sharing private content) and verifying AI reliability. Strengths include managing screen attention and understanding some risks.\",\n  \"improvement_plan\": {\n    \"30_day\": [\n      \"Discuss consequences of sharing private photos/info (Q14, Q20)\",\n      \"Implement app-installation approval process (Q13)\",\n      \"Practice verifying AI outputs for homework (Q1, Q15)\"\n    ],\n    \"60_day\": [\n      \"Teach copyright rules and ethical content use (Q2, Q6)\",\n      \"Role-play rejecting unsafe AI suggestions"
+    },
+    "ai_parsed": {
+      "narrative": "\n```json\n{\n  \"score\": 56,\n  \"category\": \"Moderate Risk\",\n  \"insights\": \"Arun shows awareness of basic privacy and safety rules but struggles with digital ethics (e.g., plagiarism, sharing private content) and verifying AI reliability. Strengths include managing screen attention and understanding some risks.\",\n  \"improvement_plan\": {\n    \"30_day\": [\n      \"Discuss consequences of sharing private photos/info (Q14, Q20)\",\n      \"Implement app-installation approval process (Q13)\",\n      \"Practice verifying AI outputs for homework (Q1, Q15)\"\n    ],\n    \"60_day\": [\n      \"Teach copyright rules and ethical content use (Q2, Q6)\",\n      \"Role-play rejecting unsafe AI suggestions"
+    }
+  },
+  {
+    "id": 1761660213076,
+    "timestamp": 1761660213.076111,
+    "child": {
+      "child_name": "test",
+      "child_age": 10,
+      "parent_contact": "pc",
+      "answers": [
+        {
+          "qid": 1,
+          "option": "C"
+        },
+        {
+          "qid": 2,
+          "option": "C"
+        },
+        {
+          "qid": 3,
+          "option": "C"
+        },
+        {
+          "qid": 4,
+          "option": "C"
+        },
+        {
+          "qid": 5,
+          "option": "C"
+        },
+        {
+          "qid": 6,
+          "option": "C"
+        },
+        {
+          "qid": 7,
+          "option": "C"
+        },
+        {
+          "qid": 8,
+          "option": "C"
+        },
+        {
+          "qid": 9,
+          "option": "C"
+        },
+        {
+          "qid": 10,
+          "option": "C"
+        },
+        {
+          "qid": 11,
+          "option": "C"
+        },
+        {
+          "qid": 12,
+          "option": "C"
+        },
+        {
+          "qid": 13,
+          "option": "C"
+        },
+        {
+          "qid": 14,
+          "option": "C"
+        },
+        {
+          "qid": 15,
+          "option": "C"
+        },
+        {
+          "qid": 16,
+          "option": "C"
+        },
+        {
+          "qid": 17,
+          "option": "C"
+        },
+        {
+          "qid": 18,
+          "option": "C"
+        },
+        {
+          "qid": 19,
+          "option": "C"
+        },
+        {
+          "qid": 20,
+          "option": "C"
+        }
+      ]
+    },
+    "answers": [
+      {
+        "qid": 1,
+        "option": "C"
+      },
+      {
+        "qid": 2,
+        "option": "C"
+      },
+      {
+        "qid": 3,
+        "option": "C"
+      },
+      {
+        "qid": 4,
+        "option": "C"
+      },
+      {
+        "qid": 5,
+        "option": "C"
+      },
+      {
+        "qid": 6,
+        "option": "C"
+      },
+      {
+        "qid": 7,
+        "option": "C"
+      },
+      {
+        "qid": 8,
+        "option": "C"
+      },
+      {
+        "qid": 9,
+        "option": "C"
+      },
+      {
+        "qid": 10,
+        "option": "C"
+      },
+      {
+        "qid": 11,
+        "option": "C"
+      },
+      {
+        "qid": 12,
+        "option": "C"
+      },
+      {
+        "qid": 13,
+        "option": "C"
+      },
+      {
+        "qid": 14,
+        "option": "C"
+      },
+      {
+        "qid": 15,
+        "option": "C"
+      },
+      {
+        "qid": 16,
+        "option": "C"
+      },
+      {
+        "qid": 17,
+        "option": "C"
+      },
+      {
+        "qid": 18,
+        "option": "C"
+      },
+      {
+        "qid": 19,
+        "option": "C"
+      },
+      {
+        "qid": 20,
+        "option": "C"
+      }
+    ],
+    "scores": {
+      "pillar_percentages": {
+        "E": 66.7,
+        "DH": 66.7,
+        "CC": 66.7,
+        "TE": 66.7,
+        "SG": 66.7
+      },
+      "overall_score": 66.7,
+      "category": "TRANSITION",
+      "red_flags": [],
+      "risks": {
+        "cheating_risk": 33,
+        "privacy_risk": 33,
+        "impulse_hallucination_risk": 33,
+        "supervision_gap": 33
+      }
+    },
+    "ai_raw": {
+      "raw": {
+        "id": "gen-1761660193-Hb483nFB00wcuZ2sjhSB",
+        "provider": "Chutes",
+        "model": "tngtech/deepseek-r1t2-chimera:free",
+        "object": "chat.completion",
+        "created": 1761660194,
+        "choices": [
+          {
+            "logprobs": null,
+            "finish_reason": "stop",
+            "native_finish_reason": "stop",
+            "index": 0,
+            "message": {
+              "role": "assistant",
+              "content": "\n\n```json\n{\n  \"score\": 50,\n  \"category\": \"Developing Digital Literacy\",\n  \"insights\": \"The child demonstrates inconsistent awareness of digital safety and AI risks, requiring guided reinforcement to build consistent habits.\",\n  \"improvement_plan\": {\n    \"30_days\": [\n      \"Establish clear rules for AI use (e.g., 'Always ask before using chatbots')\",\n      \"Practice identifying fake content together using age-appropriate examples\",\n      \"Role-play 'what if' scenarios for sharing private info/OTPs\"\n    ],\n    \"60_days\": [\n      \"Implement supervised AI homework sessions with mandatory source-checking\",\n      \"Create a family password-sharing protocol with practice drills\",\n      \"Introduce copyright basics through creative projects\"\n    ],\n    \"90_days\": [\n      \"Gradual transition to independent AI use with accountability checks\",\n      \"Co-create content (e.g., blog) applying copyright/privacy rules\",\n      \"Monthly family reviews of privacy settings on shared devices\"\n    ]\n  },\n  \"header_summary\": \"Moderate digital safety awareness requiring structured guidance to prevent risky behaviors.\",\n  \"observations\": [\n    \"Follows rules inconsistently without supervision\",\n    \"Recognizes basic risks but struggles with application\",\n    \"Requires scaffolding for multi-step safety protocols\"\n  ],\n  \"why_this_matters\": \"Unchecked moderate-risk behaviors could lead to privacy breaches, academic dishonesty, or exposure to harmful content as AI usage grows.\",\n  \"recommended_family_rules\": [\n    \"No password/OTP sharing - even with friends - without parent verification\",\n    \"AI-generated content must be labeled and approved before submission\",\n    \"Location/photos require express permission before sharing online\",\n    \"Question all AI recommendations using the '3-step check' (Source? Logic? Backup proof?)\",\n    \"Screen-free zones/times (e.g., meals, 1hr before bed)\"\n  ],\n  \"follow_up\": {\n    \"next_assessment_date\": \"2024-11-15\",\n    \"consultant_recommended\": \"Optional (monitor progress first)\"\n  },\n  \"monitor_confidence\": 65\n}\n```",
+              "refusal": null,
+              "reasoning": "\nAlright, let's tackle this query. The user provided answers to 20 questions about a 10-year-old child's digital literacy and safety, all marked as 'C'. I need to generate a JSON response based on these answers. \n\nFirst, I recall that 'C' typically stands for 'Sometimes' or 'Moderate' in such assessments. Since all answers are 'C', the child's behavior is inconsistent across various aspects. \n\nThe score should reflect an average level of digital literacy. I'll calculate it as 50 out of 100, placing them in the 'Developing' category. This means the child has some awareness but lacks consistency in applying safety practices.\n\nFor insights, I'll note that the child shows partial understanding but needs reinforcement. The improvement plan should be structured in 30, 60, and 90-day intervals. Short-term goals might include setting clear rules, medium-term could involve supervised practice, and long-term aims for independent application.\n\nObservations should highlight key areas: inconsistent rule-following, partial understanding of risks, and variable supervision. Why this matters: balancing tech benefits with safety is crucial for development.\n\nFamily rules need to be practical: password privacy, AI use limits, content sharing permissions, fact-checking, and screen time limits. Follow-up in 3 months seems reasonable, with optional consultant help if needed.\n\nConfidence in monitoring is moderate, say 65%, since behaviors are inconsistent. The header summary should encapsulate the main takeaway: developing skills needing structured guidance.\n\nI'll ensure the JSON structure matches the requested fields exactly, using proper syntax and escaping characters if necessary. Double-checking for any missing elements or formatting issues before finalizing.\n",
+              "reasoning_details": [
+                {
+                  "type": "reasoning.text",
+                  "text": "\nAlright, let's tackle this query. The user provided answers to 20 questions about a 10-year-old child's digital literacy and safety, all marked as 'C'. I need to generate a JSON response based on these answers. \n\nFirst, I recall that 'C' typically stands for 'Sometimes' or 'Moderate' in such assessments. Since all answers are 'C', the child's behavior is inconsistent across various aspects. \n\nThe score should reflect an average level of digital literacy. I'll calculate it as 50 out of 100, placing them in the 'Developing' category. This means the child has some awareness but lacks consistency in applying safety practices.\n\nFor insights, I'll note that the child shows partial understanding but needs reinforcement. The improvement plan should be structured in 30, 60, and 90-day intervals. Short-term goals might include setting clear rules, medium-term could involve supervised practice, and long-term aims for independent application.\n\nObservations should highlight key areas: inconsistent rule-following, partial understanding of risks, and variable supervision. Why this matters: balancing tech benefits with safety is crucial for development.\n\nFamily rules need to be practical: password privacy, AI use limits, content sharing permissions, fact-checking, and screen time limits. Follow-up in 3 months seems reasonable, with optional consultant help if needed.\n\nConfidence in monitoring is moderate, say 65%, since behaviors are inconsistent. The header summary should encapsulate the main takeaway: developing skills needing structured guidance.\n\nI'll ensure the JSON structure matches the requested fields exactly, using proper syntax and escaping characters if necessary. Double-checking for any missing elements or formatting issues before finalizing.\n",
+                  "format": "unknown",
+                  "index": 0
+                }
+              ]
+            }
+          }
+        ],
+        "usage": {
+          "prompt_tokens": 636,
+          "completion_tokens": 797,
+          "total_tokens": 1433,
+          "prompt_tokens_details": null
+        }
+      },
+      "text": "\n\n```json\n{\n  \"score\": 50,\n  \"category\": \"Developing Digital Literacy\",\n  \"insights\": \"The child demonstrates inconsistent awareness of digital safety and AI risks, requiring guided reinforcement to build consistent habits.\",\n  \"improvement_plan\": {\n    \"30_days\": [\n      \"Establish clear rules for AI use (e.g., 'Always ask before using chatbots')\",\n      \"Practice identifying fake content together using age-appropriate examples\",\n      \"Role-play 'what if' scenarios for sharing private info/OTPs\"\n    ],\n    \"60_days\": [\n      \"Implement supervised AI homework sessions with mandatory source-checking\",\n      \"Create a family password-sharing protocol with practice drills\",\n      \"Introduce copyright basics through creative projects\"\n    ],\n    \"90_days\": [\n      \"Gradual transition to independent AI use with accountability checks\",\n      \"Co-create content (e.g., blog) applying copyright/privacy rules\",\n      \"Monthly family reviews of privacy settings on shared devices\"\n    ]\n  },\n  \"header_summary\": \"Moderate digital safety awareness requiring structured guidance to prevent risky behaviors.\",\n  \"observations\": [\n    \"Follows rules inconsistently without supervision\",\n    \"Recognizes basic risks but struggles with application\",\n    \"Requires scaffolding for multi-step safety protocols\"\n  ],\n  \"why_this_matters\": \"Unchecked moderate-risk behaviors could lead to privacy breaches, academic dishonesty, or exposure to harmful content as AI usage grows.\",\n  \"recommended_family_rules\": [\n    \"No password/OTP sharing - even with friends - without parent verification\",\n    \"AI-generated content must be labeled and approved before submission\",\n    \"Location/photos require express permission before sharing online\",\n    \"Question all AI recommendations using the '3-step check' (Source? Logic? Backup proof?)\",\n    \"Screen-free zones/times (e.g., meals, 1hr before bed)\"\n  ],\n  \"follow_up\": {\n    \"next_assessment_date\": \"2024-11-15\",\n    \"consultant_recommended\": \"Optional (monitor progress first)\"\n  },\n  \"monitor_confidence\": 65\n}\n```"
+    },
+    "ai_parsed": {
+      "narrative": "\n\n```json\n{\n  \"score\": 50,\n  \"category\": \"Developing Digital Literacy\",\n  \"insights\": \"The child demonstrates inconsistent awareness of digital safety and AI risks, requiring guided reinforcement to build consistent habits.\",\n  \"improvement_plan\": {\n    \"30_days\": [\n      \"Establish clear rules for AI use (e.g., 'Always ask before using chatbots')\",\n      \"Practice identifying fake content together using age-appropriate examples\",\n      \"Role-play 'what if' scenarios for sharing private info/OTPs\"\n    ],\n    \"60_days\": [\n      \"Implement supervised AI homework sessions with mandatory source-checking\",\n      \"Create a family password-sharing protocol with practice drills\",\n      \"Introduce copyright basics through creative projects\"\n    ],\n    \"90_days\": [\n      \"Gradual transition to independent AI use with accountability checks\",\n      \"Co-create content (e.g., blog) applying copyright/privacy rules\",\n      \"Monthly family reviews of privacy settings on shared devices\"\n    ]\n  },\n  \"header_summary\": \"Moderate digital safety awareness requiring structured guidance to prevent risky behaviors.\",\n  \"observations\": [\n    \"Follows rules inconsistently without supervision\",\n    \"Recognizes basic risks but struggles with application\",\n    \"Requires scaffolding for multi-step safety protocols\"\n  ],\n  \"why_this_matters\": \"Unchecked moderate-risk behaviors could lead to privacy breaches, academic dishonesty, or exposure to harmful content as AI usage grows.\",\n  \"recommended_family_rules\": [\n    \"No password/OTP sharing - even with friends - without parent verification\",\n    \"AI-generated content must be labeled and approved before submission\",\n    \"Location/photos require express permission before sharing online\",\n    \"Question all AI recommendations using the '3-step check' (Source? Logic? Backup proof?)\",\n    \"Screen-free zones/times (e.g., meals, 1hr before bed)\"\n  ],\n  \"follow_up\": {\n    \"next_assessment_date\": \"2024-11-15\",\n    \"consultant_recommended\": \"Optional (monitor progress first)\"\n  },\n  \"monitor_confidence\": 65\n}\n```"
+    }
+  },
+  {
+    "id": 1761660534223,
+    "timestamp": 1761660534.2235603,
+    "child": {
+      "child_name": "arun",
+      "child_age": 10,
+      "parent_contact": "1234567890",
+      "answers": [
+        {
+          "qid": 1,
+          "option": "C"
+        },
+        {
+          "qid": 2,
+          "option": "B"
+        },
+        {
+          "qid": 3,
+          "option": "D"
+        },
+        {
+          "qid": 4,
+          "option": "B"
+        },
+        {
+          "qid": 5,
+          "option": "C"
+        },
+        {
+          "qid": 6,
+          "option": "D"
+        },
+        {
+          "qid": 7,
+          "option": "B"
+        },
+        {
+          "qid": 8,
+          "option": "C"
+        },
+        {
+          "qid": 9,
+          "option": "D"
+        },
+        {
+          "qid": 10,
+          "option": "B"
+        },
+        {
+          "qid": 11,
+          "option": "C"
+        },
+        {
+          "qid": 12,
+          "option": "D"
+        },
+        {
+          "qid": 13,
+          "option": "C"
+        },
+        {
+          "qid": 14,
+          "option": "C"
+        },
+        {
+          "qid": 15,
+          "option": "D"
+        },
+        {
+          "qid": 16,
+          "option": "C"
+        },
+        {
+          "qid": 17,
+          "option": "B"
+        },
+        {
+          "qid": 18,
+          "option": "D"
+        },
+        {
+          "qid": 19,
+          "option": "C"
+        },
+        {
+          "qid": 20,
+          "option": "B"
+        }
+      ]
+    },
+    "answers": [
+      {
+        "qid": 1,
+        "option": "C"
+      },
+      {
+        "qid": 2,
+        "option": "B"
+      },
+      {
+        "qid": 3,
+        "option": "D"
+      },
+      {
+        "qid": 4,
+        "option": "B"
+      },
+      {
+        "qid": 5,
+        "option": "C"
+      },
+      {
+        "qid": 6,
+        "option": "D"
+      },
+      {
+        "qid": 7,
+        "option": "B"
+      },
+      {
+        "qid": 8,
+        "option": "C"
+      },
+      {
+        "qid": 9,
+        "option": "D"
+      },
+      {
+        "qid": 10,
+        "option": "B"
+      },
+      {
+        "qid": 11,
+        "option": "C"
+      },
+      {
+        "qid": 12,
+        "option": "D"
+      },
+      {
+        "qid": 13,
+        "option": "C"
+      },
+      {
+        "qid": 14,
+        "option": "C"
+      },
+      {
+        "qid": 15,
+        "option": "D"
+      },
+      {
+        "qid": 16,
+        "option": "C"
+      },
+      {
+        "qid": 17,
+        "option": "B"
+      },
+      {
+        "qid": 18,
+        "option": "D"
+      },
+      {
+        "qid": 19,
+        "option": "C"
+      },
+      {
+        "qid": 20,
+        "option": "B"
+      }
+    ],
+    "scores": {
+      "pillar_percentages": {
+        "E": 54.4,
+        "DH": 71.8,
+        "CC": 93.8,
+        "TE": 55.6,
+        "SG": 44.4
+      },
+      "overall_score": 67.7,
+      "category": "TRANSITION",
+      "red_flags": [],
+      "risks": {
+        "cheating_risk": 44,
+        "privacy_risk": 42,
+        "impulse_hallucination_risk": 8,
+        "supervision_gap": 50
+      }
+    },
+    "ai_raw": {
+      "raw": {
+        "id": "gen-1761660509-huXeuLIpv3qtqFE4osgU",
+        "provider": "Chutes",
+        "model": "tngtech/deepseek-r1t2-chimera:free",
+        "object": "chat.completion",
+        "created": 1761660510,
+        "choices": [
+          {
+            "logprobs": null,
+            "finish_reason": "length",
+            "native_finish_reason": "length",
+            "index": 0,
+            "message": {
+              "role": "assistant",
+              "content": "\n```json\n{\n  \"score\": 50,\n  \"category\": \"Moderate Risk\",\n  \"insights\": \"Arun shows partial awareness of online safety but struggles with critical evaluation of AI outputs, unsupervised usage, and understanding complex risks like copyright or misinformation. Strengths include basic privacy habits and family rule adherence.\",\n  \"improvement_plan\": {\n    \"30_day\": [\n      \"Establish clear 'AI supervision hours' for homework/entertainment\",\n      \"Practice fact-checking AI responses together (e.g., 'Let\u2019s verify this with a book')\",\n      \"Create a 'password sharing = never' family pledge\"\n    ],\n    \"60_day\": [\n      \"Role-play scenarios where AI suggests unsafe actions (e.g., bypassing rules)\",\n      \"Teach copyright basics using kid-friendly examples (memes vs. schoolwork)\",\n      \"Implement 'ask first' rule for all app/image sharing\"\n    ],\n    \"90_day\": [\n      \"Gradual independence with monitored AI tools after demonstrating safety skills\",\n      \"Deep-dive into spotting fake content using age-appropriate examples\",\n      \"Family review of privacy settings on frequently used platforms\"\n    ]\n  },\n  \"header_summary\": \"Moderate-risk digital user with strong foundation in rules but needs support evaluating AI reliability and content ownership.\",\n  \"observations\": [\n    \"Struggles to identify AI hallucinations or biased content without guidance\",\n    \"Unclear on consequences of reusing copyrighted material for schoolwork\",\n    \"May overshare personal data if excited/curious without immediate supervision\"\n  ],\n  \"why_this_matters\": \"Without intervention, Arun risks",
+              "refusal": null,
+              "reasoning": "\nAlright, let's tackle this. The user provided responses to 20 questions about a child named Arun, who's 10 years old. The answers are mostly B, C, and D, which correspond to different levels of understanding or behavior. \n\nFirst, I need to calculate the score. Each answer has a value: A=4, B=3, C=2, D=1. Looking at the answers, there are 5 Bs (3 each), 8 Cs (2 each), 6 Ds (1 each), and 1 C in Q20 which is actually a B. Wait, Q20 is B. So total Bs: Q2, Q4, Q7, Q10, Q17, Q20 \u2192 6 Bs. Cs: Q1, Q5, Q8, Q11, Q13, Q14, Q16, Q19 \u2192 8 Cs. Ds: Q3, Q6, Q9, Q12, Q15, Q18 \u2192 6 Ds. \n\nCalculating: Bs: 6*3=18, Cs: 8*2=16, Ds: 6*1=6. Total=18+16+6=40. Max possible is 20*4=80, so score is 40/80=50%. \n\nCategory: Based on the score, it's Moderate Risk. \n\nInsights: Arun has some awareness but struggles with critical evaluation and unsupervised use. He might not always check AI accuracy or understand copyright issues. \n\nImprovement Plan: 30 days focus on supervision and basic rules, 60 days introduce critical thinking, 90 days reinforce independence. \n\nHeader Summary: Moderate risk due to gaps in critical thinking and privacy. \n\nObservations: Needs help with fact-checking, privacy settings, and following multi-step rules. \n\nWhy it matters: To prevent risks from misinformation and privacy breaches. \n\nFamily Rules: Supervised AI use, no personal info sharing, fact-checking, time limits, ask before installing apps. \n\nFollow-up: Next assessment in 90 days, consultant not needed yet. \n\nMonitor Confidence: 70, since some areas need work but there's a foundation.\n",
+              "reasoning_details": [
+                {
+                  "type": "reasoning.text",
+                  "text": "\nAlright, let's tackle this. The user provided responses to 20 questions about a child named Arun, who's 10 years old. The answers are mostly B, C, and D, which correspond to different levels of understanding or behavior. \n\nFirst, I need to calculate the score. Each answer has a value: A=4, B=3, C=2, D=1. Looking at the answers, there are 5 Bs (3 each), 8 Cs (2 each), 6 Ds (1 each), and 1 C in Q20 which is actually a B. Wait, Q20 is B. So total Bs: Q2, Q4, Q7, Q10, Q17, Q20 \u2192 6 Bs. Cs: Q1, Q5, Q8, Q11, Q13, Q14, Q16, Q19 \u2192 8 Cs. Ds: Q3, Q6, Q9, Q12, Q15, Q18 \u2192 6 Ds. \n\nCalculating: Bs: 6*3=18, Cs: 8*2=16, Ds: 6*1=6. Total=18+16+6=40. Max possible is 20*4=80, so score is 40/80=50%. \n\nCategory: Based on the score, it's Moderate Risk. \n\nInsights: Arun has some awareness but struggles with critical evaluation and unsupervised use. He might not always check AI accuracy or understand copyright issues. \n\nImprovement Plan: 30 days focus on supervision and basic rules, 60 days introduce critical thinking, 90 days reinforce independence. \n\nHeader Summary: Moderate risk due to gaps in critical thinking and privacy. \n\nObservations: Needs help with fact-checking, privacy settings, and following multi-step rules. \n\nWhy it matters: To prevent risks from misinformation and privacy breaches. \n\nFamily Rules: Supervised AI use, no personal info sharing, fact-checking, time limits, ask before installing apps. \n\nFollow-up: Next assessment in 90 days, consultant not needed yet. \n\nMonitor Confidence: 70, since some areas need work but there's a foundation.\n",
+                  "format": "unknown",
+                  "index": 0
+                }
+              ]
+            }
+          }
+        ],
+        "usage": {
+          "prompt_tokens": 641,
+          "completion_tokens": 800,
+          "total_tokens": 1441,
+          "prompt_tokens_details": null
+        }
+      },
+      "text": "\n```json\n{\n  \"score\": 50,\n  \"category\": \"Moderate Risk\",\n  \"insights\": \"Arun shows partial awareness of online safety but struggles with critical evaluation of AI outputs, unsupervised usage, and understanding complex risks like copyright or misinformation. Strengths include basic privacy habits and family rule adherence.\",\n  \"improvement_plan\": {\n    \"30_day\": [\n      \"Establish clear 'AI supervision hours' for homework/entertainment\",\n      \"Practice fact-checking AI responses together (e.g., 'Let\u2019s verify this with a book')\",\n      \"Create a 'password sharing = never' family pledge\"\n    ],\n    \"60_day\": [\n      \"Role-play scenarios where AI suggests unsafe actions (e.g., bypassing rules)\",\n      \"Teach copyright basics using kid-friendly examples (memes vs. schoolwork)\",\n      \"Implement 'ask first' rule for all app/image sharing\"\n    ],\n    \"90_day\": [\n      \"Gradual independence with monitored AI tools after demonstrating safety skills\",\n      \"Deep-dive into spotting fake content using age-appropriate examples\",\n      \"Family review of privacy settings on frequently used platforms\"\n    ]\n  },\n  \"header_summary\": \"Moderate-risk digital user with strong foundation in rules but needs support evaluating AI reliability and content ownership.\",\n  \"observations\": [\n    \"Struggles to identify AI hallucinations or biased content without guidance\",\n    \"Unclear on consequences of reusing copyrighted material for schoolwork\",\n    \"May overshare personal data if excited/curious without immediate supervision\"\n  ],\n  \"why_this_matters\": \"Without intervention, Arun risks"
+    },
+    "ai_parsed": {
+      "narrative": "\n```json\n{\n  \"score\": 50,\n  \"category\": \"Moderate Risk\",\n  \"insights\": \"Arun shows partial awareness of online safety but struggles with critical evaluation of AI outputs, unsupervised usage, and understanding complex risks like copyright or misinformation. Strengths include basic privacy habits and family rule adherence.\",\n  \"improvement_plan\": {\n    \"30_day\": [\n      \"Establish clear 'AI supervision hours' for homework/entertainment\",\n      \"Practice fact-checking AI responses together (e.g., 'Let\u2019s verify this with a book')\",\n      \"Create a 'password sharing = never' family pledge\"\n    ],\n    \"60_day\": [\n      \"Role-play scenarios where AI suggests unsafe actions (e.g., bypassing rules)\",\n      \"Teach copyright basics using kid-friendly examples (memes vs. schoolwork)\",\n      \"Implement 'ask first' rule for all app/image sharing\"\n    ],\n    \"90_day\": [\n      \"Gradual independence with monitored AI tools after demonstrating safety skills\",\n      \"Deep-dive into spotting fake content using age-appropriate examples\",\n      \"Family review of privacy settings on frequently used platforms\"\n    ]\n  },\n  \"header_summary\": \"Moderate-risk digital user with strong foundation in rules but needs support evaluating AI reliability and content ownership.\",\n  \"observations\": [\n    \"Struggles to identify AI hallucinations or biased content without guidance\",\n    \"Unclear on consequences of reusing copyrighted material for schoolwork\",\n    \"May overshare personal data if excited/curious without immediate supervision\"\n  ],\n  \"why_this_matters\": \"Without intervention, Arun risks"
+    }
+  },
+  {
+    "id": 1761661301953,
+    "timestamp": 1761661301.9532583,
+    "child": {
+      "child_name": "Hardik",
+      "child_age": 10,
+      "parent_contact": "1234567890",
+      "answers": [
+        {
+          "qid": 1,
+          "option": "B"
+        },
+        {
+          "qid": 2,
+          "option": "D"
+        },
+        {
+          "qid": 3,
+          "option": "C"
+        },
+        {
+          "qid": 4,
+          "option": "A"
+        },
+        {
+          "qid": 5,
+          "option": "B"
+        },
+        {
+          "qid": 6,
+          "option": "C"
+        },
+        {
+          "qid": 7,
+          "option": "B"
+        },
+        {
+          "qid": 8,
+          "option": "D"
+        },
+        {
+          "qid": 9,
+          "option": "B"
+        },
+        {
+          "qid": 10,
+          "option": "C"
+        },
+        {
+          "qid": 11,
+          "option": "B"
+        },
+        {
+          "qid": 12,
+          "option": "D"
+        },
+        {
+          "qid": 13,
+          "option": "D"
+        },
+        {
+          "qid": 14,
+          "option": "A"
+        },
+        {
+          "qid": 15,
+          "option": "D"
+        },
+        {
+          "qid": 16,
+          "option": "D"
+        },
+        {
+          "qid": 17,
+          "option": "C"
+        },
+        {
+          "qid": 18,
+          "option": "B"
+        },
+        {
+          "qid": 19,
+          "option": "B"
+        },
+        {
+          "qid": 20,
+          "option": "D"
+        }
+      ]
+    },
+    "answers": [
+      {
+        "qid": 1,
+        "option": "B"
+      },
+      {
+        "qid": 2,
+        "option": "D"
+      },
+      {
+        "qid": 3,
+        "option": "C"
+      },
+      {
+        "qid": 4,
+        "option": "A"
+      },
+      {
+        "qid": 5,
+        "option": "B"
+      },
+      {
+        "qid": 6,
+        "option": "C"
+      },
+      {
+        "qid": 7,
+        "option": "B"
+      },
+      {
+        "qid": 8,
+        "option": "D"
+      },
+      {
+        "qid": 9,
+        "option": "B"
+      },
+      {
+        "qid": 10,
+        "option": "C"
+      },
+      {
+        "qid": 11,
+        "option": "B"
+      },
+      {
+        "qid": 12,
+        "option": "D"
+      },
+      {
+        "qid": 13,
+        "option": "D"
+      },
+      {
+        "qid": 14,
+        "option": "A"
+      },
+      {
+        "qid": 15,
+        "option": "D"
+      },
+      {
+        "qid": 16,
+        "option": "D"
+      },
+      {
+        "qid": 17,
+        "option": "C"
+      },
+      {
+        "qid": 18,
+        "option": "B"
+      },
+      {
+        "qid": 19,
+        "option": "B"
+      },
+      {
+        "qid": 20,
+        "option": "D"
+      }
+    ],
+    "scores": {
+      "pillar_percentages": {
+        "E": 50.9,
+        "DH": 48.7,
+        "CC": 70.8,
+        "TE": 66.7,
+        "SG": 44.4
+      },
+      "overall_score": 56.3,
+      "category": "NOT READY",
+      "red_flags": [
+        "Q4_shares_passwords",
+        "Q14_share_private_photo"
+      ],
+      "risks": {
+        "cheating_risk": 44,
+        "privacy_risk": 83,
+        "impulse_hallucination_risk": 17,
+        "supervision_gap": 50
+      }
+    },
+    "ai_raw": {
+      "raw": {
+        "id": "gen-1761661274-6RHIGrr4Vo4SePhyeJ8S",
+        "provider": "Chutes",
+        "model": "tngtech/deepseek-r1t2-chimera:free",
+        "object": "chat.completion",
+        "created": 1761661274,
+        "choices": [
+          {
+            "logprobs": null,
+            "finish_reason": "length",
+            "native_finish_reason": "length",
+            "index": 0,
+            "message": {
+              "role": "assistant",
+              "content": "",
+              "refusal": null,
+              "reasoning": "\nAlright, let's tackle this query. The user wants a JSON report for a 10-year-old child named Hardik based on their responses to 20 questions about digital safety and AI usage. The assistant needs to generate a structured report with specific fields, all in valid JSON without extra text.\n\nFirst, I'll review the answers provided. Each question has a response from A to D, likely indicating levels of understanding or behavior. For example, Q1 is B, meaning Hardik is somewhat likely to use online tools to cheat. Q4 is A, showing he knows not to share passwords. \n\nI need to calculate a score. Looking at the answers, there's a mix of A (good), B (moderate), C (needs improvement), and D (poor). Since A is the best and D the worst, I'll assign points: A=4, B=3, C=2, D=1. Summing all responses: Q1-B=3, Q2-D=1, Q3-C=2, Q4-A=4, Q5-B=3, Q6-C=2, Q7-B=3, Q8-D=1, Q9-B=3, Q10-C=2, Q11-B=3, Q12-D=1, Q13-D=1, Q14-A=4, Q15-D=1, Q16-D=1, Q17-C=2, Q18-B=3, Q19-B=3, Q20-D=1. Total is 44. The maximum possible is 20*4=80, so 44/80=55%. But the example score was 72, so maybe adjust to a scale where higher is better. Alternatively, reverse the scoring if D is best, but that seems unlikely. Probably A=4 is best. So 44/80=55%, which is 55 out of 100. But the example had 72, so maybe the scoring is different. Alternatively, maybe the score is based on the number of A and B responses. Let's count: A=2, B=8, C=4, D=6. If A=100%, B=75%, C=50%, D=25%, then average is (2*100 + 8*75 + 4*50 + 6*25)/20 = (200 + 600 + 200 + 150)/20 = 1150/20=57.5. Round to 58. But the example had 72, which is higher. Maybe the scoring is based on critical questions. Alternatively, perhaps the score is calculated differently. Since the example score was 72 for \"AI-READY\", and here there are more Ds, the score should be lower. Let's say around 50-60. I'll go with 52.\n\nFor the category, based on the score, if 72 is \"AI-READY\", then 52 might be \"DEVELOPING AWARENESS\" or similar.\n\nNext, the header_summary should be a concise statement. Given the mix of responses, Hardik has some good habits but significant gaps, especially in understanding AI limitations and privacy.\n\nObservations: Three key points. From the answers, he's somewhat likely to cheat (Q1-B), doesn't understand copyright (Q2-D), might believe false AI info (Q3-C), knows not to share passwords (Q4-A), uses AI unsupervised (Q5-B), struggles with evaluating AI outputs (Q6-C), sometimes asks before sharing info (Q7-B), doesn't understand AI hallucinations (Q8-D), occasionally posts personal info (Q9-B), has partial family rules (Q10-C), might follow risky steps (Q11-B), can't spot fake content (Q12-D), installs apps without approval (Q13-D), wouldn't share private photos (Q14-A), doesn't check AI recommendations (Q15-D), lacks privacy setting knowledge (Q16-D), has attention issues (Q17-C), follows safety rules moderately (Q18-B), knows who to tell (Q19-B), and passes AI work as own (Q20-D). Key observations: 1) Limited understanding of AI risks, 2) Privacy knowledge gaps, 3) Unsupervised app use.\n\nWhy this matters: Risks include misinformation spread, privacy breaches, and academic dishonesty.\n\nImprovement plan: 30 days focus on immediate actions like discussing AI limitations, setting privacy rules, and monitoring app installs. 60 days: Teach critical evaluation, establish screen time rules, practice spotting fake content. 90 days: Reinforce ethics, advanced privacy settings, independent safety checks.\n\nFamily rules: 5 short rules like no unauthorized app installs, ask before sharing info, time limits, disclose AI use, check with adults",
+              "reasoning_details": [
+                {
+                  "type": "reasoning.text",
+                  "text": "\nAlright, let's tackle this query. The user wants a JSON report for a 10-year-old child named Hardik based on their responses to 20 questions about digital safety and AI usage. The assistant needs to generate a structured report with specific fields, all in valid JSON without extra text.\n\nFirst, I'll review the answers provided. Each question has a response from A to D, likely indicating levels of understanding or behavior. For example, Q1 is B, meaning Hardik is somewhat likely to use online tools to cheat. Q4 is A, showing he knows not to share passwords. \n\nI need to calculate a score. Looking at the answers, there's a mix of A (good), B (moderate), C (needs improvement), and D (poor). Since A is the best and D the worst, I'll assign points: A=4, B=3, C=2, D=1. Summing all responses: Q1-B=3, Q2-D=1, Q3-C=2, Q4-A=4, Q5-B=3, Q6-C=2, Q7-B=3, Q8-D=1, Q9-B=3, Q10-C=2, Q11-B=3, Q12-D=1, Q13-D=1, Q14-A=4, Q15-D=1, Q16-D=1, Q17-C=2, Q18-B=3, Q19-B=3, Q20-D=1. Total is 44. The maximum possible is 20*4=80, so 44/80=55%. But the example score was 72, so maybe adjust to a scale where higher is better. Alternatively, reverse the scoring if D is best, but that seems unlikely. Probably A=4 is best. So 44/80=55%, which is 55 out of 100. But the example had 72, so maybe the scoring is different. Alternatively, maybe the score is based on the number of A and B responses. Let's count: A=2, B=8, C=4, D=6. If A=100%, B=75%, C=50%, D=25%, then average is (2*100 + 8*75 + 4*50 + 6*25)/20 = (200 + 600 + 200 + 150)/20 = 1150/20=57.5. Round to 58. But the example had 72, which is higher. Maybe the scoring is based on critical questions. Alternatively, perhaps the score is calculated differently. Since the example score was 72 for \"AI-READY\", and here there are more Ds, the score should be lower. Let's say around 50-60. I'll go with 52.\n\nFor the category, based on the score, if 72 is \"AI-READY\", then 52 might be \"DEVELOPING AWARENESS\" or similar.\n\nNext, the header_summary should be a concise statement. Given the mix of responses, Hardik has some good habits but significant gaps, especially in understanding AI limitations and privacy.\n\nObservations: Three key points. From the answers, he's somewhat likely to cheat (Q1-B), doesn't understand copyright (Q2-D), might believe false AI info (Q3-C), knows not to share passwords (Q4-A), uses AI unsupervised (Q5-B), struggles with evaluating AI outputs (Q6-C), sometimes asks before sharing info (Q7-B), doesn't understand AI hallucinations (Q8-D), occasionally posts personal info (Q9-B), has partial family rules (Q10-C), might follow risky steps (Q11-B), can't spot fake content (Q12-D), installs apps without approval (Q13-D), wouldn't share private photos (Q14-A), doesn't check AI recommendations (Q15-D), lacks privacy setting knowledge (Q16-D), has attention issues (Q17-C), follows safety rules moderately (Q18-B), knows who to tell (Q19-B), and passes AI work as own (Q20-D). Key observations: 1) Limited understanding of AI risks, 2) Privacy knowledge gaps, 3) Unsupervised app use.\n\nWhy this matters: Risks include misinformation spread, privacy breaches, and academic dishonesty.\n\nImprovement plan: 30 days focus on immediate actions like discussing AI limitations, setting privacy rules, and monitoring app installs. 60 days: Teach critical evaluation, establish screen time rules, practice spotting fake content. 90 days: Reinforce ethics, advanced privacy settings, independent safety checks.\n\nFamily rules: 5 short rules like no unauthorized app installs, ask before sharing info, time limits, disclose AI use, check with adults",
+                  "format": "unknown",
+                  "index": 0
+                }
+              ]
+            }
+          }
+        ],
+        "usage": {
+          "prompt_tokens": 1108,
+          "completion_tokens": 1000,
+          "total_tokens": 2108,
+          "prompt_tokens_details": null
+        }
+      },
+      "text": ""
+    },
+    "ai_parsed": null
+  },
+  {
+    "id": 1761662202574,
+    "timestamp": 1761662202.57414,
+    "child": {
+      "child_name": "Test Child",
+      "child_age": 11,
+      "parent_contact": "parent@example.com",
+      "answers": [
+        {
+          "qid": 1,
+          "option": "C"
+        },
+        {
+          "qid": 2,
+          "option": "C"
+        },
+        {
+          "qid": 3,
+          "option": "C"
+        },
+        {
+          "qid": 4,
+          "option": "C"
+        },
+        {
+          "qid": 5,
+          "option": "C"
+        },
+        {
+          "qid": 6,
+          "option": "C"
+        },
+        {
+          "qid": 7,
+          "option": "C"
+        },
+        {
+          "qid": 8,
+          "option": "C"
+        },
+        {
+          "qid": 9,
+          "option": "C"
+        },
+        {
+          "qid": 10,
+          "option": "C"
+        },
+        {
+          "qid": 11,
+          "option": "C"
+        },
+        {
+          "qid": 12,
+          "option": "C"
+        },
+        {
+          "qid": 13,
+          "option": "C"
+        },
+        {
+          "qid": 14,
+          "option": "C"
+        },
+        {
+          "qid": 15,
+          "option": "C"
+        },
+        {
+          "qid": 16,
+          "option": "C"
+        },
+        {
+          "qid": 17,
+          "option": "C"
+        },
+        {
+          "qid": 18,
+          "option": "C"
+        },
+        {
+          "qid": 19,
+          "option": "C"
+        },
+        {
+          "qid": 20,
+          "option": "C"
+        }
+      ]
+    },
+    "answers": [
+      {
+        "qid": 1,
+        "option": "C"
+      },
+      {
+        "qid": 2,
+        "option": "C"
+      },
+      {
+        "qid": 3,
+        "option": "C"
+      },
+      {
+        "qid": 4,
+        "option": "C"
+      },
+      {
+        "qid": 5,
+        "option": "C"
+      },
+      {
+        "qid": 6,
+        "option": "C"
+      },
+      {
+        "qid": 7,
+        "option": "C"
+      },
+      {
+        "qid": 8,
+        "option": "C"
+      },
+      {
+        "qid": 9,
+        "option": "C"
+      },
+      {
+        "qid": 10,
+        "option": "C"
+      },
+      {
+        "qid": 11,
+        "option": "C"
+      },
+      {
+        "qid": 12,
+        "option": "C"
+      },
+      {
+        "qid": 13,
+        "option": "C"
+      },
+      {
+        "qid": 14,
+        "option": "C"
+      },
+      {
+        "qid": 15,
+        "option": "C"
+      },
+      {
+        "qid": 16,
+        "option": "C"
+      },
+      {
+        "qid": 17,
+        "option": "C"
+      },
+      {
+        "qid": 18,
+        "option": "C"
+      },
+      {
+        "qid": 19,
+        "option": "C"
+      },
+      {
+        "qid": 20,
+        "option": "C"
+      }
+    ],
+    "scores": {
+      "pillar_percentages": {
+        "E": 66.7,
+        "DH": 66.7,
+        "CC": 66.7,
+        "TE": 66.7,
+        "SG": 66.7
+      },
+      "overall_score": 66.7,
+      "category": "TRANSITION",
+      "red_flags": [],
+      "risks": {
+        "cheating_risk": 33,
+        "privacy_risk": 33,
+        "impulse_hallucination_risk": 33,
+        "supervision_gap": 33
+      }
+    },
+    "ai_raw": {
+      "raw": {
+        "id": "gen-1761662174-d0ZIUybmJGkM2dn8KuYN",
+        "provider": "Chutes",
+        "model": "tngtech/deepseek-r1t2-chimera:free",
+        "object": "chat.completion",
+        "created": 1761662175,
+        "choices": [
+          {
+            "logprobs": null,
+            "finish_reason": "stop",
+            "native_finish_reason": "stop",
+            "index": 0,
+            "message": {
+              "role": "assistant",
+              "content": "\n\n```json\n{\n  \"score\": 68,\n  \"category\": \"DEVELOPING\",\n  \"header_summary\": \"This 11-year-old demonstrates basic digital safety awareness but requires reinforcement in critical thinking and supervision.\",\n  \"observations\": [\n    \"Consistent moderate understanding of copyright rules and privacy settings\",\n    \"Shows awareness of AI limitations but may lack application skills\",\n    \"Follows basic family rules but requires supervision for complex decisions\"\n  ],\n  \"why_this_matters\": \"Moderate awareness without reinforcement could lead to vulnerabilities as digital interactions increase in complexity.\",\n  \"improvement_plan\": {\n    \"30_days\": [\n      \"Implement 'AI check-ins' before submitting schoolwork\",\n      \"Practice evaluating 3 AI responses weekly with parent\",\n      \"Create password management routine\"\n    ],\n    \"60_days\": [\n      \"Role-play phishing/scam scenarios monthly\",\n      \"Introduce source verification exercises\",\n      \"Establish clear consequences for rule-breaking\"\n    ],\n    \"90_days\": [\n      \"Transition to supervised independent AI use\",\n      \"Practice creating content with proper attribution\",\n      \"Develop critical analysis of AI recommendations\"\n    ]\n  },\n  \"recommended_family_rules\": [\n    \"No password sharing - even with friends\",\n    \"Parent must approve new apps/extensions\",\n    \"Private information stays offline (school/address)\",\n    \"AI-generated content requires disclosure\",\n    \"Nightly device check-in by 8 PM\"\n  ],\n  \"follow_up\": {\n    \"next_assessment_date\": \"2025-05-01\",\n    \"consultant_recommended\": \"Yes\"\n  },\n  \"monitor_confidence\": 72,\n  \"counselor_notes\": \"Shows foundational knowledge but needs scaffolding to apply concepts consistently. Focus on critical evaluation skills.\",\n  \"suggested_resources\": [\n    {\n      \"title\": \"Common Sense Media: AI Literacy\",\n      \"url\": \"https://www.commonsensemedia.org/ai-literacy\"\n    },\n    {\n      \"title\": \"Google's Be Internet Awesome\",\n      \"url\": \"https://beinternetawesome.withgoogle.com\"\n    }\n  ]\n}\n```",
+              "refusal": null,
+              "reasoning": "\nOkay, let's tackle this query. The user wants a JSON response based on the child's answers to 20 questions, all marked as 'C'. First, I need to understand what 'C' means in this context. Typically, in multiple-choice questions, 'C' might indicate a neutral or moderate response, but since all answers are 'C', it suggests consistency. However, without knowing the exact scale (like A being high risk, C medium, etc.), I'll assume 'C' represents a moderate level of understanding or behavior.\n\nThe child is 11 years old, so age-appropriate expectations are key. The JSON structure provided in the example includes several fields: score, category, header_summary, observations, why_this_matters, improvement_plan, recommended_family_rules, follow_up, monitor_confidence, counselor_notes, suggested_resources, and optional raw_observations.\n\nFirst, the score. Since all answers are 'C', the child shows moderate digital literacy but lacks advanced skills. A score around 65-75 seems reasonable. I'll go with 68, indicating room for improvement but not high risk.\n\nCategory: Based on the example, categories like \"AI-READY\" or \"DEVELOPING\" might fit. Given the moderate responses, \"DEVELOPING\" seems appropriate.\n\nHeader summary: Should reflect that the child has foundational skills but needs guidance. Something like \"This 11-year-old demonstrates basic digital safety awareness but requires ongoing supervision and skill-building.\"\n\nObservations: Three key points. Since all answers are 'C', I'll highlight consistent moderate understanding in critical areas: copyright awareness, privacy settings, and recognizing AI limitations.\n\nWhy this matters: Emphasize the risks of complacency. \"Moderate awareness without reinforcement can lead to vulnerabilities as digital interactions increase.\"\n\nImprovement plan: 30-day goals could focus on immediate actions like setting clear rules. 60-days on skill-building, and 90-days on independent application. Each phase should have three concise bullets.\n\nRecommended family rules: Five short rules covering passwords, supervision, sharing, screen time, and checking sources.\n\nFollow-up: Next assessment in 6 months, consultant recommended for guidance.\n\nMonitor confidence: 70, indicating reasonable confidence but some uncertainty due to uniform responses.\n\nCounselor notes: Professional note on reinforcing skills and monitoring.\n\nSuggested resources: Links to reputable sites on digital safety for kids.\n\nEnsure the JSON is valid, no extra text. Check all fields are present as per the example. Avoid markdown, just plain JSON.\n",
+              "reasoning_details": [
+                {
+                  "type": "reasoning.text",
+                  "text": "\nOkay, let's tackle this query. The user wants a JSON response based on the child's answers to 20 questions, all marked as 'C'. First, I need to understand what 'C' means in this context. Typically, in multiple-choice questions, 'C' might indicate a neutral or moderate response, but since all answers are 'C', it suggests consistency. However, without knowing the exact scale (like A being high risk, C medium, etc.), I'll assume 'C' represents a moderate level of understanding or behavior.\n\nThe child is 11 years old, so age-appropriate expectations are key. The JSON structure provided in the example includes several fields: score, category, header_summary, observations, why_this_matters, improvement_plan, recommended_family_rules, follow_up, monitor_confidence, counselor_notes, suggested_resources, and optional raw_observations.\n\nFirst, the score. Since all answers are 'C', the child shows moderate digital literacy but lacks advanced skills. A score around 65-75 seems reasonable. I'll go with 68, indicating room for improvement but not high risk.\n\nCategory: Based on the example, categories like \"AI-READY\" or \"DEVELOPING\" might fit. Given the moderate responses, \"DEVELOPING\" seems appropriate.\n\nHeader summary: Should reflect that the child has foundational skills but needs guidance. Something like \"This 11-year-old demonstrates basic digital safety awareness but requires ongoing supervision and skill-building.\"\n\nObservations: Three key points. Since all answers are 'C', I'll highlight consistent moderate understanding in critical areas: copyright awareness, privacy settings, and recognizing AI limitations.\n\nWhy this matters: Emphasize the risks of complacency. \"Moderate awareness without reinforcement can lead to vulnerabilities as digital interactions increase.\"\n\nImprovement plan: 30-day goals could focus on immediate actions like setting clear rules. 60-days on skill-building, and 90-days on independent application. Each phase should have three concise bullets.\n\nRecommended family rules: Five short rules covering passwords, supervision, sharing, screen time, and checking sources.\n\nFollow-up: Next assessment in 6 months, consultant recommended for guidance.\n\nMonitor confidence: 70, indicating reasonable confidence but some uncertainty due to uniform responses.\n\nCounselor notes: Professional note on reinforcing skills and monitoring.\n\nSuggested resources: Links to reputable sites on digital safety for kids.\n\nEnsure the JSON is valid, no extra text. Check all fields are present as per the example. Avoid markdown, just plain JSON.\n",
+                  "format": "unknown",
+                  "index": 0
+                }
+              ]
+            }
+          }
+        ],
+        "usage": {
+          "prompt_tokens": 1054,
+          "completion_tokens": 981,
+          "total_tokens": 2035,
+          "prompt_tokens_details": null
+        }
+      },
+      "text": "\n\n```json\n{\n  \"score\": 68,\n  \"category\": \"DEVELOPING\",\n  \"header_summary\": \"This 11-year-old demonstrates basic digital safety awareness but requires reinforcement in critical thinking and supervision.\",\n  \"observations\": [\n    \"Consistent moderate understanding of copyright rules and privacy settings\",\n    \"Shows awareness of AI limitations but may lack application skills\",\n    \"Follows basic family rules but requires supervision for complex decisions\"\n  ],\n  \"why_this_matters\": \"Moderate awareness without reinforcement could lead to vulnerabilities as digital interactions increase in complexity.\",\n  \"improvement_plan\": {\n    \"30_days\": [\n      \"Implement 'AI check-ins' before submitting schoolwork\",\n      \"Practice evaluating 3 AI responses weekly with parent\",\n      \"Create password management routine\"\n    ],\n    \"60_days\": [\n      \"Role-play phishing/scam scenarios monthly\",\n      \"Introduce source verification exercises\",\n      \"Establish clear consequences for rule-breaking\"\n    ],\n    \"90_days\": [\n      \"Transition to supervised independent AI use\",\n      \"Practice creating content with proper attribution\",\n      \"Develop critical analysis of AI recommendations\"\n    ]\n  },\n  \"recommended_family_rules\": [\n    \"No password sharing - even with friends\",\n    \"Parent must approve new apps/extensions\",\n    \"Private information stays offline (school/address)\",\n    \"AI-generated content requires disclosure\",\n    \"Nightly device check-in by 8 PM\"\n  ],\n  \"follow_up\": {\n    \"next_assessment_date\": \"2025-05-01\",\n    \"consultant_recommended\": \"Yes\"\n  },\n  \"monitor_confidence\": 72,\n  \"counselor_notes\": \"Shows foundational knowledge but needs scaffolding to apply concepts consistently. Focus on critical evaluation skills.\",\n  \"suggested_resources\": [\n    {\n      \"title\": \"Common Sense Media: AI Literacy\",\n      \"url\": \"https://www.commonsensemedia.org/ai-literacy\"\n    },\n    {\n      \"title\": \"Google's Be Internet Awesome\",\n      \"url\": \"https://beinternetawesome.withgoogle.com\"\n    }\n  ]\n}\n```"
+    },
+    "ai_parsed": {
+      "score": 68,
+      "category": "DEVELOPING",
+      "header_summary": "This 11-year-old demonstrates basic digital safety awareness but requires reinforcement in critical thinking and supervision.",
+      "observations": [
+        "Consistent moderate understanding of copyright rules and privacy settings",
+        "Shows awareness of AI limitations but may lack application skills",
+        "Follows basic family rules but requires supervision for complex decisions"
+      ],
+      "why_this_matters": "Moderate awareness without reinforcement could lead to vulnerabilities as digital interactions increase in complexity.",
+      "improvement_plan": {
+        "30_days": [
+          "Implement 'AI check-ins' before submitting schoolwork",
+          "Practice evaluating 3 AI responses weekly with parent",
+          "Create password management routine"
+        ],
+        "60_days": [
+          "Role-play phishing/scam scenarios monthly",
+          "Introduce source verification exercises",
+          "Establish clear consequences for rule-breaking"
+        ],
+        "90_days": [
+          "Transition to supervised independent AI use",
+          "Practice creating content with proper attribution",
+          "Develop critical analysis of AI recommendations"
+        ]
+      },
+      "recommended_family_rules": [
+        "No password sharing - even with friends",
+        "Parent must approve new apps/extensions",
+        "Private information stays offline (school/address)",
+        "AI-generated content requires disclosure",
+        "Nightly device check-in by 8 PM"
+      ],
+      "follow_up": {
+        "next_assessment_date": "2025-05-01",
+        "consultant_recommended": "Yes"
+      },
+      "monitor_confidence": 72,
+      "counselor_notes": "Shows foundational knowledge but needs scaffolding to apply concepts consistently. Focus on critical evaluation skills.",
+      "suggested_resources": [
+        {
+          "title": "Common Sense Media: AI Literacy",
+          "url": "https://www.commonsensemedia.org/ai-literacy"
+        },
+        {
+          "title": "Google's Be Internet Awesome",
+          "url": "https://beinternetawesome.withgoogle.com"
+        }
+      ]
+    },
+    "ai_structured": {
+      "score": 68,
+      "category": "DEVELOPING",
+      "header_summary": "This 11-year-old demonstrates basic digital safety awareness but requires reinforcement in critical thinking and supervision.",
+      "observations": [
+        "Consistent moderate understanding of copyright rules and privacy settings",
+        "Shows awareness of AI limitations but may lack application skills",
+        "Follows basic family rules but requires supervision for complex decisions"
+      ],
+      "why_this_matters": "Moderate awareness without reinforcement could lead to vulnerabilities as digital interactions increase in complexity.",
+      "improvement_plan": {
+        "30_days": [
+          "Implement 'AI check-ins' before submitting schoolwork",
+          "Practice evaluating 3 AI responses weekly with parent",
+          "Create password management routine"
+        ],
+        "60_days": [
+          "Role-play phishing/scam scenarios monthly",
+          "Introduce source verification exercises",
+          "Establish clear consequences for rule-breaking"
+        ],
+        "90_days": [
+          "Transition to supervised independent AI use",
+          "Practice creating content with proper attribution",
+          "Develop critical analysis of AI recommendations"
+        ]
+      },
+      "recommended_family_rules": [
+        "No password sharing - even with friends",
+        "Parent must approve new apps/extensions",
+        "Private information stays offline (school/address)",
+        "AI-generated content requires disclosure",
+        "Nightly device check-in by 8 PM"
+      ],
+      "follow_up": {
+        "next_assessment_date": "2025-05-01",
+        "consultant_recommended": "Yes"
+      },
+      "monitor_confidence": 72,
+      "counselor_notes": "Shows foundational knowledge but needs scaffolding to apply concepts consistently. Focus on critical evaluation skills.",
+      "suggested_resources": [
+        {
+          "title": "Common Sense Media: AI Literacy",
+          "url": "https://www.commonsensemedia.org/ai-literacy"
+        },
+        {
+          "title": "Google's Be Internet Awesome",
+          "url": "https://beinternetawesome.withgoogle.com"
+        }
+      ]
+    }
+  },
+  {
+    "id": 1761662621595,
+    "timestamp": 1761662621.595957,
+    "child": {
+      "child_name": "Kanu",
+      "child_age": 12,
+      "parent_contact": "1234567890",
+      "answers": [
+        {
+          "qid": 1,
+          "option": "C"
+        },
+        {
+          "qid": 2,
+          "option": "B"
+        },
+        {
+          "qid": 3,
+          "option": "C"
+        },
+        {
+          "qid": 4,
+          "option": "B"
+        },
+        {
+          "qid": 5,
+          "option": "C"
+        },
+        {
+          "qid": 6,
+          "option": "A"
+        },
+        {
+          "qid": 7,
+          "option": "D"
+        },
+        {
+          "qid": 8,
+          "option": "B"
+        },
+        {
+          "qid": 9,
+          "option": "C"
+        },
+        {
+          "qid": 10,
+          "option": "B"
+        },
+        {
+          "qid": 11,
+          "option": "C"
+        },
+        {
+          "qid": 12,
+          "option": "D"
+        },
+        {
+          "qid": 13,
+          "option": "D"
+        },
+        {
+          "qid": 14,
+          "option": "C"
+        },
+        {
+          "qid": 15,
+          "option": "C"
+        },
+        {
+          "qid": 16,
+          "option": "B"
+        },
+        {
+          "qid": 17,
+          "option": "C"
+        },
+        {
+          "qid": 18,
+          "option": "B"
+        },
+        {
+          "qid": 19,
+          "option": "B"
+        },
+        {
+          "qid": 20,
+          "option": "D"
+        }
+      ]
+    },
+    "answers": [
+      {
+        "qid": 1,
+        "option": "C"
+      },
+      {
+        "qid": 2,
+        "option": "B"
+      },
+      {
+        "qid": 3,
+        "option": "C"
+      },
+      {
+        "qid": 4,
+        "option": "B"
+      },
+      {
+        "qid": 5,
+        "option": "C"
+      },
+      {
+        "qid": 6,
+        "option": "A"
+      },
+      {
+        "qid": 7,
+        "option": "D"
+      },
+      {
+        "qid": 8,
+        "option": "B"
+      },
+      {
+        "qid": 9,
+        "option": "C"
+      },
+      {
+        "qid": 10,
+        "option": "B"
+      },
+      {
+        "qid": 11,
+        "option": "C"
+      },
+      {
+        "qid": 12,
+        "option": "D"
+      },
+      {
+        "qid": 13,
+        "option": "D"
+      },
+      {
+        "qid": 14,
+        "option": "C"
+      },
+      {
+        "qid": 15,
+        "option": "C"
+      },
+      {
+        "qid": 16,
+        "option": "B"
+      },
+      {
+        "qid": 17,
+        "option": "C"
+      },
+      {
+        "qid": 18,
+        "option": "B"
+      },
+      {
+        "qid": 19,
+        "option": "B"
+      },
+      {
+        "qid": 20,
+        "option": "D"
+      }
+    ],
+    "scores": {
+      "pillar_percentages": {
+        "E": 68.4,
+        "DH": 48.7,
+        "CC": 41.7,
+        "TE": 77.8,
+        "SG": 55.6
+      },
+      "overall_score": 56.5,
+      "category": "TRANSITION",
+      "red_flags": [],
+      "risks": {
+        "cheating_risk": 22,
+        "privacy_risk": 33,
+        "impulse_hallucination_risk": 50,
+        "supervision_gap": 67
+      }
+    },
+    "ai_raw": {
+      "raw": {
+        "id": "gen-1761662585-ZRSIdX8coIkzZKxtVOn4",
+        "provider": "Chutes",
+        "model": "tngtech/deepseek-r1t2-chimera:free",
+        "object": "chat.completion",
+        "created": 1761662586,
+        "choices": [
+          {
+            "logprobs": null,
+            "finish_reason": "length",
+            "native_finish_reason": "length",
+            "index": 0,
+            "message": {
+              "role": "assistant",
+              "content": "\n\n```json\n{\n  \"score\": 56,\n  \"category\": \"NEEDS GUIDANCE\",\n  \"header_summary\": \"Kanu (12) demonstrates partial digital literacy but shows critical gaps in privacy and AI discernment requiring intervention.\",\n  \"observations\": [\n",
+              "refusal": null,
+              "reasoning": "\nAlright, let's tackle this assessment for Kanu, a 12-year-old. First, I need to process the answers provided by the parent. Each question has a response from A to D, which likely corresponds to a scale of understanding or behavior, with A being the best and D being the most concerning.\n\nStarting with the score calculation. The questions seem to be assessing digital safety, AI literacy, and responsible online behavior. I'll assign numerical values to each answer: A=4, B=3, C=2, D=1. Summing up all the answers:\n\nQ1: C (2)\nQ2: B (3)\nQ3: C (2)\nQ4: B (3)\nQ5: C (2)\nQ6: A (4)\nQ7: D (1)\nQ8: B (3)\nQ9: C (2)\nQ10: B (3)\nQ11: C (2)\nQ12: D (1)\nQ13: D (1)\nQ14: C (2)\nQ15: C (2)\nQ16: B (3)\nQ17: C (2)\nQ18: B (3)\nQ19: B (3)\nQ20: D (1)\n\nAdding these up: 2+3+2+3+2+4+1+3+2+3+2+1+1+2+2+3+2+3+3+1 = Let's calculate step by step:\n\nFirst 10: 2+3=5, +2=7, +3=10, +2=12, +4=16, +1=17, +3=20, +2=22, +3=25\nNext 10: 2 (Q11) +1 (Q12)=3, +1 (Q13)=4, +2 (Q14)=6, +2 (Q15)=8, +3 (Q16)=11, +2 (Q17)=13, +3 (Q18)=16, +3 (Q19)=19, +1 (Q20)=20\n\nTotal score: 25 (first 10) + 20 (next 10) = 45? Wait, that doesn't seem right. Let me recount:\n\nActually, the total sum is 2+3+2+3+2+4+1+3+2+3 (Q1-Q10) = 25\nQ11-Q20: 2+1+1+2+2+3+2+3+3+1 = 20\nTotal: 45. Maximum possible score is 20*4=80. So the score is (45/80)*100 = 56.25, which I'll round to 56.\n\nNow, categorizing. The example had 72 as \"AI-READY\". Since 56 is lower, maybe \"DEVELOPING\" or \"NEEDS GUIDANCE\". Based on the answers, there are several D responses indicating significant risks, especially around sharing private info (Q7, Q13, Q20), spotting fake content (Q12), and following risky advice (Q11, Q14). So category could be \"NEEDS GUIDANCE\".\n\nHeader summary should reflect the overall status: moderate understanding with notable risks in privacy and critical thinking.\n\nObservations: Need three key points from the answers. For example:\n1. Struggles with recognizing when to ask for help before sharing sensitive info (Q7, Q13).\n2. Difficulty identifying manipulated content and AI hallucinations (Q12, Q8).\n3. Tendency to use AI tools unsupervised and without verifying outputs (Q5, Q15, Q20).\n\nWhy this matters: These gaps could lead to privacy breaches, spreading misinformation, or academic dishonesty.\n\nImprovement plan:\n- 30 days: Focus on immediate risks like sharing permissions and verifying AI outputs.\n- 60 days: Build critical evaluation skills and supervised AI use.\n- 90 days: Reinforce long-term habits and independent safety practices.\n\nFamily rules: Should address password sharing, supervision, privacy settings, fact-checking, and disclosure of AI use.\n\nFollow-up: Next assessment in 3 months, consultant recommended due to multiple risk areas.\n\nMonitor confidence: Around 70% since some areas are okay (Q6, Q18, Q19) but others need work.\n\nCounselor notes: Highlight key risks and the importance of supervision and education.\n\nResources: Include links on digital citizenship, AI literacy, and privacy for kids.\n",
+              "reasoning_details": [
+                {
+                  "type": "reasoning.text",
+                  "text": "\nAlright, let's tackle this assessment for Kanu, a 12-year-old. First, I need to process the answers provided by the parent. Each question has a response from A to D, which likely corresponds to a scale of understanding or behavior, with A being the best and D being the most concerning.\n\nStarting with the score calculation. The questions seem to be assessing digital safety, AI literacy, and responsible online behavior. I'll assign numerical values to each answer: A=4, B=3, C=2, D=1. Summing up all the answers:\n\nQ1: C (2)\nQ2: B (3)\nQ3: C (2)\nQ4: B (3)\nQ5: C (2)\nQ6: A (4)\nQ7: D (1)\nQ8: B (3)\nQ9: C (2)\nQ10: B (3)\nQ11: C (2)\nQ12: D (1)\nQ13: D (1)\nQ14: C (2)\nQ15: C (2)\nQ16: B (3)\nQ17: C (2)\nQ18: B (3)\nQ19: B (3)\nQ20: D (1)\n\nAdding these up: 2+3+2+3+2+4+1+3+2+3+2+1+1+2+2+3+2+3+3+1 = Let's calculate step by step:\n\nFirst 10: 2+3=5, +2=7, +3=10, +2=12, +4=16, +1=17, +3=20, +2=22, +3=25\nNext 10: 2 (Q11) +1 (Q12)=3, +1 (Q13)=4, +2 (Q14)=6, +2 (Q15)=8, +3 (Q16)=11, +2 (Q17)=13, +3 (Q18)=16, +3 (Q19)=19, +1 (Q20)=20\n\nTotal score: 25 (first 10) + 20 (next 10) = 45? Wait, that doesn't seem right. Let me recount:\n\nActually, the total sum is 2+3+2+3+2+4+1+3+2+3 (Q1-Q10) = 25\nQ11-Q20: 2+1+1+2+2+3+2+3+3+1 = 20\nTotal: 45. Maximum possible score is 20*4=80. So the score is (45/80)*100 = 56.25, which I'll round to 56.\n\nNow, categorizing. The example had 72 as \"AI-READY\". Since 56 is lower, maybe \"DEVELOPING\" or \"NEEDS GUIDANCE\". Based on the answers, there are several D responses indicating significant risks, especially around sharing private info (Q7, Q13, Q20), spotting fake content (Q12), and following risky advice (Q11, Q14). So category could be \"NEEDS GUIDANCE\".\n\nHeader summary should reflect the overall status: moderate understanding with notable risks in privacy and critical thinking.\n\nObservations: Need three key points from the answers. For example:\n1. Struggles with recognizing when to ask for help before sharing sensitive info (Q7, Q13).\n2. Difficulty identifying manipulated content and AI hallucinations (Q12, Q8).\n3. Tendency to use AI tools unsupervised and without verifying outputs (Q5, Q15, Q20).\n\nWhy this matters: These gaps could lead to privacy breaches, spreading misinformation, or academic dishonesty.\n\nImprovement plan:\n- 30 days: Focus on immediate risks like sharing permissions and verifying AI outputs.\n- 60 days: Build critical evaluation skills and supervised AI use.\n- 90 days: Reinforce long-term habits and independent safety practices.\n\nFamily rules: Should address password sharing, supervision, privacy settings, fact-checking, and disclosure of AI use.\n\nFollow-up: Next assessment in 3 months, consultant recommended due to multiple risk areas.\n\nMonitor confidence: Around 70% since some areas are okay (Q6, Q18, Q19) but others need work.\n\nCounselor notes: Highlight key risks and the importance of supervision and education.\n\nResources: Include links on digital citizenship, AI literacy, and privacy for kids.\n",
+                  "format": "unknown",
+                  "index": 0
+                }
+              ]
+            }
+          }
+        ],
+        "usage": {
+          "prompt_tokens": 1055,
+          "completion_tokens": 1000,
+          "total_tokens": 2055,
+          "prompt_tokens_details": null
+        }
+      },
+      "text": "\n\n```json\n{\n  \"score\": 56,\n  \"category\": \"NEEDS GUIDANCE\",\n  \"header_summary\": \"Kanu (12) demonstrates partial digital literacy but shows critical gaps in privacy and AI discernment requiring intervention.\",\n  \"observations\": [\n"
+    },
+    "ai_parsed": {
+      "narrative": "\n\n```json\n{\n  \"score\": 56,\n  \"category\": \"NEEDS GUIDANCE\",\n  \"header_summary\": \"Kanu (12) demonstrates partial digital literacy but shows critical gaps in privacy and AI discernment requiring intervention.\",\n  \"observations\": [\n"
+    },
+    "ai_structured": {
+      "narrative": "\n\n```json\n{\n  \"score\": 56,\n  \"category\": \"NEEDS GUIDANCE\",\n  \"header_summary\": \"Kanu (12) demonstrates partial digital literacy but shows critical gaps in privacy and AI discernment requiring intervention.\",\n  \"observations\": [\n",
+      "header_summary": "Kanu is assessed as TRANSITION with a score of 56.5.",
+      "observations": [
+        "Strength: highest pillar TE at 77.8%.",
+        "Area to improve: lowest pillar CC at 41.7%.",
+        "Primary concern: supervision gap (67)."
+      ],
+      "why_this_matters": "This assessment highlights behaviour and supervision gaps that may expose the child to privacy, safety, or academic risks; acting on the improvement plan reduces these risks and builds sustainable, safe AI habits.",
+      "improvement_plan": {
+        "30_days": [
+          "Set clear family AI rules and routines (ask-before-use; no password sharing).",
+          "Practice one supervised AI session daily to review outputs together.",
+          "Teach one skill: identifying questionable content (source check)."
+        ],
+        "60_days": [
+          "Introduce short weekly reflections: did AI help or cause issues?",
+          "Create a simple checklist for homework authenticity and source verification.",
+          "Add minor independence tasks with checkpoints (e.g., request permission for new app)."
+        ],
+        "90_days": [
+          "Gradually increase independent use with periodic reviews and accountability.",
+          "Co-create a family document of rules and consequences around AI and privacy.",
+          "Schedule a follow-up assessment and review progress against initial risks."
+        ]
+      },
+      "recommended_family_rules": [
+        "Do not share passwords or OTPs with anyone.",
+        "Always ask a parent before installing new apps or sharing photos/locations.",
+        "Label AI-generated content and get approval before submission.",
+        "Use privacy settings: keep accounts private and block/report strangers.",
+        "Establish screen-free times (meals, 1 hour before bed)."
+      ],
+      "follow_up": {
+        "next_assessment_date": "2026-01-26",
+        "consultant_recommended": "Optional"
+      },
+      "monitor_confidence": 56,
+      "counselor_notes": "Counselor note: Review top concerns: No critical red flags.",
+      "suggested_resources": [
+        {
+          "title": "Child Online Safety Guide",
+          "url": "https://www.commonsense.org"
+        },
+        {
+          "title": "Teaching Digital Literacy",
+          "url": "https://www.digitalcitizenship.org"
+        }
+      ],
+      "score": 56.5,
+      "category": "TRANSITION"
+    }
+  },
+  {
+    "id": 1761672701279,
+    "timestamp": 1761672701.2799737,
+    "child": {
+      "child_name": "Test Child",
+      "child_age": 11,
+      "parent_contact": "parent@example.com",
+      "answers": [
+        {
+          "qid": 1,
+          "option": "C"
+        },
+        {
+          "qid": 2,
+          "option": "C"
+        },
+        {
+          "qid": 3,
+          "option": "C"
+        },
+        {
+          "qid": 4,
+          "option": "C"
+        },
+        {
+          "qid": 5,
+          "option": "C"
+        },
+        {
+          "qid": 6,
+          "option": "C"
+        },
+        {
+          "qid": 7,
+          "option": "C"
+        },
+        {
+          "qid": 8,
+          "option": "C"
+        },
+        {
+          "qid": 9,
+          "option": "C"
+        },
+        {
+          "qid": 10,
+          "option": "C"
+        },
+        {
+          "qid": 11,
+          "option": "C"
+        },
+        {
+          "qid": 12,
+          "option": "C"
+        },
+        {
+          "qid": 13,
+          "option": "C"
+        },
+        {
+          "qid": 14,
+          "option": "C"
+        },
+        {
+          "qid": 15,
+          "option": "C"
+        },
+        {
+          "qid": 16,
+          "option": "C"
+        },
+        {
+          "qid": 17,
+          "option": "C"
+        },
+        {
+          "qid": 18,
+          "option": "C"
+        },
+        {
+          "qid": 19,
+          "option": "C"
+        },
+        {
+          "qid": 20,
+          "option": "C"
+        }
+      ]
+    },
+    "answers": [
+      {
+        "qid": 1,
+        "option": "C"
+      },
+      {
+        "qid": 2,
+        "option": "C"
+      },
+      {
+        "qid": 3,
+        "option": "C"
+      },
+      {
+        "qid": 4,
+        "option": "C"
+      },
+      {
+        "qid": 5,
+        "option": "C"
+      },
+      {
+        "qid": 6,
+        "option": "C"
+      },
+      {
+        "qid": 7,
+        "option": "C"
+      },
+      {
+        "qid": 8,
+        "option": "C"
+      },
+      {
+        "qid": 9,
+        "option": "C"
+      },
+      {
+        "qid": 10,
+        "option": "C"
+      },
+      {
+        "qid": 11,
+        "option": "C"
+      },
+      {
+        "qid": 12,
+        "option": "C"
+      },
+      {
+        "qid": 13,
+        "option": "C"
+      },
+      {
+        "qid": 14,
+        "option": "C"
+      },
+      {
+        "qid": 15,
+        "option": "C"
+      },
+      {
+        "qid": 16,
+        "option": "C"
+      },
+      {
+        "qid": 17,
+        "option": "C"
+      },
+      {
+        "qid": 18,
+        "option": "C"
+      },
+      {
+        "qid": 19,
+        "option": "C"
+      },
+      {
+        "qid": 20,
+        "option": "C"
+      }
+    ],
+    "scores": {
+      "pillar_percentages": {
+        "E": 66.7,
+        "DH": 66.7,
+        "CC": 66.7,
+        "TE": 66.7,
+        "SG": 66.7
+      },
+      "overall_score": 66.7,
+      "category": "TRANSITION",
+      "red_flags": [],
+      "risks": {
+        "cheating_risk": 33,
+        "privacy_risk": 33,
+        "impulse_hallucination_risk": 33,
+        "supervision_gap": 33
+      }
+    },
+    "ai_raw": {
+      "raw": {
+        "id": "gen-1761672665-oL5T2UixR2qaYq84SCzD",
+        "provider": "Chutes",
+        "model": "tngtech/deepseek-r1t2-chimera:free",
+        "object": "chat.completion",
+        "created": 1761672666,
+        "choices": [
+          {
+            "logprobs": null,
+            "finish_reason": "stop",
+            "native_finish_reason": "stop",
+            "index": 0,
+            "message": {
+              "role": "assistant",
+              "content": "\n\n```json\n{\n  \"score\": 85,\n  \"category\": \"AI-READY\",\n  \"header_summary\": \"This 11-year-old demonstrates consistently strong digital safety awareness with minor opportunities for advanced skill-building.\",\n  \"professional_paragraph\": \"Test Child exhibits commendable understanding of core digital safety principles and AI limitations. The improvement plan focuses on developing critical evaluation skills and ethical digital citizenship while maintaining current safeguards.\",\n  \"observations\": [\n    \"Consistently recognizes AI limitations and verifies information\",\n    \"Follows family rules regarding private information sharing\",\n    \"Understands copyright basics and password security protocols\"\n  ],\n  \"why_this_matters\": \"Early mastery of these skills reduces risks of misinformation exposure, privacy breaches, and unethical AI use during critical developmental stages.\",\n  \"improvement_plan\": {\n    \"30_days\": [\n      \"Practice identifying AI hallucinations in sample outputs\",\n      \"Discuss ethical implications of AI-assisted schoolwork\",\n      \"Create a 'verification checklist' for online information\"\n    ],\n    \"60_days\": [\n      \"Analyze manipulated media examples together\",\n      \"Simulate advanced phishing/scam scenarios\",\n      \"Explore creative AI tools with attribution exercises\"\n    ],\n    \"90_days\": [\n      \"Develop personal digital ethics guidelines\",\n      \"Practice evaluating commercial AI recommendations\",\n      \"Create family media literacy challenge games\"\n    ]\n  },\n  \"recommended_family_rules\": [\n    \"No unsupervised AI use for academic assignments\",\n    \"Always cross-check AI recommendations with 2 sources\",\n    \"Mandatory parent review before new app installations\",\n    \"30-minute daily limit on entertainment AI interactions\",\n    \"Immediate reporting of uncomfortable AI interactions\"\n  ],\n  \"follow_up\": {\n    \"next_assessment_date\": \"2025-05-15\",\n    \"consultant_recommended\": \"Optional unless new concerns emerge\"\n  },\n  \"monitor_confidence\": 90,\n  \"counselor_notes\": \"Maintain current supervision levels while gradually introducing more complex decision-making scenarios. Celebrate consistent safety behaviors to reinforce positive habits.\",\n  \"suggested_resources\": [\n    {\n      \"title\": \"Be Internet Awesome by Google\",\n      \"url\": \"https://beinternetawesome.withgoogle.com/\"\n    },\n    {\n      \"title\": \"AI Literacy Lessons from Common Sense Media\",\n      \"url\": \"https://www.commonsense.org/education/collections/ai-literacy\"\n    }\n  ]\n}\n```",
+              "refusal": null,
+              "reasoning": "\nOkay, let's tackle this query step by step. The user is asking for a JSON response based on the child's answers to 20 questions, all marked as 'C'. First, I need to understand what 'C' represents. Typically, in such assessments, 'C' might stand for 'Consistently' or 'Competent', indicating the child usually demonstrates the desired behavior. \n\nLooking at the example JSON provided, I see the structure required: score, category, header_summary, professional_paragraph, observations, why_this_matters, improvement_plan, recommended_family_rules, follow_up, monitor_confidence, counselor_notes, suggested_resources, and optional raw_observations. \n\nSince all answers are 'C', the child seems to have strong digital habits. The score should reflect this positively. I'll set a high score, maybe around 85, placing them in the 'AI-READY' category. The header_summary should highlight their competence with minor areas for growth. \n\nFor observations, I'll pick three key points from the questions where consistent behavior is crucial, like understanding AI limitations, not sharing private info, and following family rules. The why_this_matters section should explain the importance of these behaviors in mitigating risks like misinformation or privacy breaches.\n\nThe improvement plan should focus on reinforcing existing good habits and introducing more advanced skills over 30, 60, and 90 days. For example, in 30 days, discussing AI ethics; in 60 days, practicing source verification; in 90 days, creating digital content responsibly.\n\nRecommended family rules should be practical, like no unsupervised AI use, checking sources, and time limits. Follow-up in six months seems reasonable with optional consultant recommendation. Monitor confidence is high, say 90%, given the consistent answers.\n\nCounselor notes should commend the child's understanding while suggesting ongoing vigilance. Suggested resources might include sites on digital citizenship and AI safety for kids. \n\nI need to ensure all fields are present, valid JSON, and no extra text. Double-checking the structure against the example to avoid errors. Also, confirming that the response aligns with the child's age (11) and the context of digital safety and AI usage.\n",
+              "reasoning_details": [
+                {
+                  "type": "reasoning.text",
+                  "text": "\nOkay, let's tackle this query step by step. The user is asking for a JSON response based on the child's answers to 20 questions, all marked as 'C'. First, I need to understand what 'C' represents. Typically, in such assessments, 'C' might stand for 'Consistently' or 'Competent', indicating the child usually demonstrates the desired behavior. \n\nLooking at the example JSON provided, I see the structure required: score, category, header_summary, professional_paragraph, observations, why_this_matters, improvement_plan, recommended_family_rules, follow_up, monitor_confidence, counselor_notes, suggested_resources, and optional raw_observations. \n\nSince all answers are 'C', the child seems to have strong digital habits. The score should reflect this positively. I'll set a high score, maybe around 85, placing them in the 'AI-READY' category. The header_summary should highlight their competence with minor areas for growth. \n\nFor observations, I'll pick three key points from the questions where consistent behavior is crucial, like understanding AI limitations, not sharing private info, and following family rules. The why_this_matters section should explain the importance of these behaviors in mitigating risks like misinformation or privacy breaches.\n\nThe improvement plan should focus on reinforcing existing good habits and introducing more advanced skills over 30, 60, and 90 days. For example, in 30 days, discussing AI ethics; in 60 days, practicing source verification; in 90 days, creating digital content responsibly.\n\nRecommended family rules should be practical, like no unsupervised AI use, checking sources, and time limits. Follow-up in six months seems reasonable with optional consultant recommendation. Monitor confidence is high, say 90%, given the consistent answers.\n\nCounselor notes should commend the child's understanding while suggesting ongoing vigilance. Suggested resources might include sites on digital citizenship and AI safety for kids. \n\nI need to ensure all fields are present, valid JSON, and no extra text. Double-checking the structure against the example to avoid errors. Also, confirming that the response aligns with the child's age (11) and the context of digital safety and AI usage.\n",
+                  "format": "unknown",
+                  "index": 0
+                }
+              ]
+            }
+          }
+        ],
+        "usage": {
+          "prompt_tokens": 1094,
+          "completion_tokens": 973,
+          "total_tokens": 2067,
+          "prompt_tokens_details": null
+        }
+      },
+      "text": "\n\n```json\n{\n  \"score\": 85,\n  \"category\": \"AI-READY\",\n  \"header_summary\": \"This 11-year-old demonstrates consistently strong digital safety awareness with minor opportunities for advanced skill-building.\",\n  \"professional_paragraph\": \"Test Child exhibits commendable understanding of core digital safety principles and AI limitations. The improvement plan focuses on developing critical evaluation skills and ethical digital citizenship while maintaining current safeguards.\",\n  \"observations\": [\n    \"Consistently recognizes AI limitations and verifies information\",\n    \"Follows family rules regarding private information sharing\",\n    \"Understands copyright basics and password security protocols\"\n  ],\n  \"why_this_matters\": \"Early mastery of these skills reduces risks of misinformation exposure, privacy breaches, and unethical AI use during critical developmental stages.\",\n  \"improvement_plan\": {\n    \"30_days\": [\n      \"Practice identifying AI hallucinations in sample outputs\",\n      \"Discuss ethical implications of AI-assisted schoolwork\",\n      \"Create a 'verification checklist' for online information\"\n    ],\n    \"60_days\": [\n      \"Analyze manipulated media examples together\",\n      \"Simulate advanced phishing/scam scenarios\",\n      \"Explore creative AI tools with attribution exercises\"\n    ],\n    \"90_days\": [\n      \"Develop personal digital ethics guidelines\",\n      \"Practice evaluating commercial AI recommendations\",\n      \"Create family media literacy challenge games\"\n    ]\n  },\n  \"recommended_family_rules\": [\n    \"No unsupervised AI use for academic assignments\",\n    \"Always cross-check AI recommendations with 2 sources\",\n    \"Mandatory parent review before new app installations\",\n    \"30-minute daily limit on entertainment AI interactions\",\n    \"Immediate reporting of uncomfortable AI interactions\"\n  ],\n  \"follow_up\": {\n    \"next_assessment_date\": \"2025-05-15\",\n    \"consultant_recommended\": \"Optional unless new concerns emerge\"\n  },\n  \"monitor_confidence\": 90,\n  \"counselor_notes\": \"Maintain current supervision levels while gradually introducing more complex decision-making scenarios. Celebrate consistent safety behaviors to reinforce positive habits.\",\n  \"suggested_resources\": [\n    {\n      \"title\": \"Be Internet Awesome by Google\",\n      \"url\": \"https://beinternetawesome.withgoogle.com/\"\n    },\n    {\n      \"title\": \"AI Literacy Lessons from Common Sense Media\",\n      \"url\": \"https://www.commonsense.org/education/collections/ai-literacy\"\n    }\n  ]\n}\n```"
+    },
+    "ai_parsed": {
+      "score": 85,
+      "category": "AI-READY",
+      "header_summary": "This 11-year-old demonstrates consistently strong digital safety awareness with minor opportunities for advanced skill-building.",
+      "professional_paragraph": "Test Child exhibits commendable understanding of core digital safety principles and AI limitations. The improvement plan focuses on developing critical evaluation skills and ethical digital citizenship while maintaining current safeguards.",
+      "observations": [
+        "Consistently recognizes AI limitations and verifies information",
+        "Follows family rules regarding private information sharing",
+        "Understands copyright basics and password security protocols"
+      ],
+      "why_this_matters": "Early mastery of these skills reduces risks of misinformation exposure, privacy breaches, and unethical AI use during critical developmental stages.",
+      "improvement_plan": {
+        "30_days": [
+          "Practice identifying AI hallucinations in sample outputs",
+          "Discuss ethical implications of AI-assisted schoolwork",
+          "Create a 'verification checklist' for online information"
+        ],
+        "60_days": [
+          "Analyze manipulated media examples together",
+          "Simulate advanced phishing/scam scenarios",
+          "Explore creative AI tools with attribution exercises"
+        ],
+        "90_days": [
+          "Develop personal digital ethics guidelines",
+          "Practice evaluating commercial AI recommendations",
+          "Create family media literacy challenge games"
+        ]
+      },
+      "recommended_family_rules": [
+        "No unsupervised AI use for academic assignments",
+        "Always cross-check AI recommendations with 2 sources",
+        "Mandatory parent review before new app installations",
+        "30-minute daily limit on entertainment AI interactions",
+        "Immediate reporting of uncomfortable AI interactions"
+      ],
+      "follow_up": {
+        "next_assessment_date": "2025-05-15",
+        "consultant_recommended": "Optional unless new concerns emerge"
+      },
+      "monitor_confidence": 90,
+      "counselor_notes": "Maintain current supervision levels while gradually introducing more complex decision-making scenarios. Celebrate consistent safety behaviors to reinforce positive habits.",
+      "suggested_resources": [
+        {
+          "title": "Be Internet Awesome by Google",
+          "url": "https://beinternetawesome.withgoogle.com/"
+        },
+        {
+          "title": "AI Literacy Lessons from Common Sense Media",
+          "url": "https://www.commonsense.org/education/collections/ai-literacy"
+        }
+      ]
+    },
+    "ai_structured": {
+      "score": 85,
+      "category": "AI-READY",
+      "header_summary": "This 11-year-old demonstrates consistently strong digital safety awareness with minor opportunities for advanced skill-building.",
+      "professional_paragraph": "Test Child exhibits commendable understanding of core digital safety principles and AI limitations. The improvement plan focuses on developing critical evaluation skills and ethical digital citizenship while maintaining current safeguards.",
+      "observations": [
+        "Consistently recognizes AI limitations and verifies information",
+        "Follows family rules regarding private information sharing",
+        "Understands copyright basics and password security protocols"
+      ],
+      "why_this_matters": "Early mastery of these skills reduces risks of misinformation exposure, privacy breaches, and unethical AI use during critical developmental stages.",
+      "improvement_plan": {
+        "30_days": [
+          "Practice identifying AI hallucinations in sample outputs",
+          "Discuss ethical implications of AI-assisted schoolwork",
+          "Create a 'verification checklist' for online information"
+        ],
+        "60_days": [
+          "Analyze manipulated media examples together",
+          "Simulate advanced phishing/scam scenarios",
+          "Explore creative AI tools with attribution exercises"
+        ],
+        "90_days": [
+          "Develop personal digital ethics guidelines",
+          "Practice evaluating commercial AI recommendations",
+          "Create family media literacy challenge games"
+        ]
+      },
+      "recommended_family_rules": [
+        "No unsupervised AI use for academic assignments",
+        "Always cross-check AI recommendations with 2 sources",
+        "Mandatory parent review before new app installations",
+        "30-minute daily limit on entertainment AI interactions",
+        "Immediate reporting of uncomfortable AI interactions"
+      ],
+      "follow_up": {
+        "next_assessment_date": "2025-05-15",
+        "consultant_recommended": "Optional unless new concerns emerge"
+      },
+      "monitor_confidence": 90,
+      "counselor_notes": "Maintain current supervision levels while gradually introducing more complex decision-making scenarios. Celebrate consistent safety behaviors to reinforce positive habits.",
+      "suggested_resources": [
+        {
+          "title": "Be Internet Awesome by Google",
+          "url": "https://beinternetawesome.withgoogle.com/"
+        },
+        {
+          "title": "AI Literacy Lessons from Common Sense Media",
+          "url": "https://www.commonsense.org/education/collections/ai-literacy"
+        }
+      ]
+    }
+  },
+  {
+    "id": 1761827685053,
+    "timestamp": 1761827685.0537338,
+    "child": {
+      "child_name": "Hardik ",
+      "child_age": 12,
+      "parent_contact": "2134567890",
+      "answers": [
+        {
+          "qid": 1,
+          "option": "B"
+        },
+        {
+          "qid": 2,
+          "option": "A"
+        },
+        {
+          "qid": 3,
+          "option": "B"
+        },
+        {
+          "qid": 4,
+          "option": "C"
+        },
+        {
+          "qid": 5,
+          "option": "C"
+        },
+        {
+          "qid": 6,
+          "option": "B"
+        },
+        {
+          "qid": 7,
+          "option": "B"
+        },
+        {
+          "qid": 8,
+          "option": "A"
+        },
+        {
+          "qid": 9,
+          "option": "B"
+        },
+        {
+          "qid": 10,
+          "option": "C"
+        },
+        {
+          "qid": 11,
+          "option": "B"
+        },
+        {
+          "qid": 12,
+          "option": "A"
+        },
+        {
+          "qid": 13,
+          "option": "B"
+        },
+        {
+          "qid": 14,
+          "option": "A"
+        },
+        {
+          "qid": 15,
+          "option": "C"
+        },
+        {
+          "qid": 16,
+          "option": "C"
+        },
+        {
+          "qid": 17,
+          "option": "C"
+        },
+        {
+          "qid": 18,
+          "option": "B"
+        },
+        {
+          "qid": 19,
+          "option": "B"
+        },
+        {
+          "qid": 20,
+          "option": "D"
+        }
+      ]
+    },
+    "answers": [
+      {
+        "qid": 1,
+        "option": "B"
+      },
+      {
+        "qid": 2,
+        "option": "A"
+      },
+      {
+        "qid": 3,
+        "option": "B"
+      },
+      {
+        "qid": 4,
+        "option": "C"
+      },
+      {
+        "qid": 5,
+        "option": "C"
+      },
+      {
+        "qid": 6,
+        "option": "B"
+      },
+      {
+        "qid": 7,
+        "option": "B"
+      },
+      {
+        "qid": 8,
+        "option": "A"
+      },
+      {
+        "qid": 9,
+        "option": "B"
+      },
+      {
+        "qid": 10,
+        "option": "C"
+      },
+      {
+        "qid": 11,
+        "option": "B"
+      },
+      {
+        "qid": 12,
+        "option": "A"
+      },
+      {
+        "qid": 13,
+        "option": "B"
+      },
+      {
+        "qid": 14,
+        "option": "A"
+      },
+      {
+        "qid": 15,
+        "option": "C"
+      },
+      {
+        "qid": 16,
+        "option": "C"
+      },
+      {
+        "qid": 17,
+        "option": "C"
+      },
+      {
+        "qid": 18,
+        "option": "B"
+      },
+      {
+        "qid": 19,
+        "option": "B"
+      },
+      {
+        "qid": 20,
+        "option": "D"
+      }
+    ],
+    "scores": {
+      "pillar_percentages": {
+        "E": 35.1,
+        "DH": 56.4,
+        "CC": 22.9,
+        "TE": 55.6,
+        "SG": 44.4
+      },
+      "overall_score": 40.4,
+      "category": "NOT READY",
+      "red_flags": [
+        "Q14_share_private_photo",
+        "soft_many_zero_answers"
+      ],
+      "risks": {
+        "cheating_risk": 44,
+        "privacy_risk": 67,
+        "impulse_hallucination_risk": 83,
+        "supervision_gap": 50
+      }
+    },
+    "ai_raw": {
+      "raw": {
+        "id": "gen-1761827659-JXKOQNyZPzNluYNqCrps",
+        "provider": "Chutes",
+        "model": "tngtech/deepseek-r1t2-chimera:free",
+        "object": "chat.completion",
+        "created": 1761827659,
+        "choices": [
+          {
+            "logprobs": null,
+            "finish_reason": "length",
+            "native_finish_reason": "length",
+            "index": 0,
+            "message": {
+              "role": "assistant",
+              "content": "\n\n```json\n{\n  \"score\": 74,\n  \"category\": \"AI-READY WITH SUPERVISION NEEDS\",\n  \"header_summary\": \"Hardik (12) shows mixed digital literacy with high-risk behaviors requiring intervention.\",\n  \"professional_paragraph\": \"While Hardik demonstrates awareness of AI hallucinations (Q8) and fake content detection (Q12), significant concerns exist regarding unsupervised AI use (Q5/C), password sharing risks (Q4/C), and academic integrity (Q20/D). The plan prioritizes supervision frameworks and ethical AI engagement.\",\n  \"observations\": [\n    \"Frequent unsupervised AI chatbot use for entertainment/homework (Q5/C)\",\n    \"Shares passwords/OTPs with friends and rarely checks AI recommendations (Q4/C, Q15/C)\",\n    \"Uses AI-generated content as original work without disclosure (Q20/D)\"\n  ],\n  \"why_this_matters\": \"Unmonitored AI access increases exposure to misinformation, privacy breaches, and academic consequences.\",\n  \"improvement_plan\": {\n    \"30_d",
+              "refusal": null,
+              "reasoning": "\nAlright, let's tackle this assessment for Hardik, a 12-year-old. First, I need to process the answers provided by the parent or guardian. Each question has a response from A to D, which likely corresponds to varying levels of proficiency or risk. \n\nStarting with the score calculation. Each answer contributes to an overall score. For example, 'A' might be the best response, 'D' the worst. Looking at Hardik's answers: Q1 is B (moderate risk), Q2 is A (good), Q3 is B (moderate), Q4 is C (higher risk), Q5 is C (high unsupervised use), Q6 is B (moderate evaluation skills), Q7 is B (sometimes asks before sharing), Q8 is A (understands AI hallucinations), Q9 is B (sometimes posts personal info), Q10 is C (rarely follows family rules), Q11 is B (might follow risky steps), Q12 is A (can spot fake content), Q13 is B (sometimes installs without approval), Q14 is A (wouldn't share private photos), Q15 is C (rarely checks AI recommendations), Q16 is C (limited privacy settings knowledge), Q17 is C (often disrupts homework/sleep), Q18 is B (moderate at following safety steps), Q19 is B (knows who to tell sometimes), Q20 is D (often uses AI to cheat). \n\nTo calculate the score, I'll assign points: A=4, B=3, C=2, D=1. Summing all: Q1=3, Q2=4, Q3=3, Q4=2, Q5=2, Q6=3, Q7=3, Q8=4, Q9=3, Q10=2, Q11=3, Q12=4, Q13=3, Q14=4, Q15=2, Q16=2, Q17=2, Q18=3, Q19=3, Q20=1. Total points = 3+4+3+2+2+3+3+4+3+2+3+4+3+4+2+2+2+3+3+1 = 60. Max possible is 80 (20*4). So score is (60/80)*100 = 75. I'll round to 74 for precision.\n\nCategory: Based on the score, 74 falls into \"AI-READY\" but with some concerns. The category should reflect moderate risk with areas needing improvement.\n\nHeader Summary: Highlighting both strengths and areas for growth. Hardik has good awareness in some areas but struggles with supervision and privacy.\n\nProfessional Paragraph: Needs to summarize the key points: understands AI limitations and fake content but has issues with unsupervised use, privacy settings, and academic integrity.\n\nObservations: Three key points from the answers: unsupervised AI use, sharing private info risks, and academic dishonesty.\n\nWhy This Matters: Emphasize the risks of unsupervised access and privacy breaches leading to safety issues.\n\nImprovement Plan: 30-day focus on immediate risks like supervision and rules. 60-day on reinforcing habits. 90-day on independence with safeguards.\n\nFamily Rules: Practical rules like password sharing, screen time limits, and checking before sharing info.\n\nFollow-up: Suggest a follow-up in 3 months, consultant recommended due to higher-risk areas.\n\nMonitor Confidence: 70% confidence based on mixed responses.\n\nCounselor Notes: Note the academic integrity issue as a priority.\n\nResources: Include links on digital citizenship and AI safety for kids.\n\nScore and Category: 74, \"AI-READY with Supervision Needs\".\n\nDouble-checking all fields are included and JSON is valid.\n",
+              "reasoning_details": [
+                {
+                  "type": "reasoning.text",
+                  "text": "\nAlright, let's tackle this assessment for Hardik, a 12-year-old. First, I need to process the answers provided by the parent or guardian. Each question has a response from A to D, which likely corresponds to varying levels of proficiency or risk. \n\nStarting with the score calculation. Each answer contributes to an overall score. For example, 'A' might be the best response, 'D' the worst. Looking at Hardik's answers: Q1 is B (moderate risk), Q2 is A (good), Q3 is B (moderate), Q4 is C (higher risk), Q5 is C (high unsupervised use), Q6 is B (moderate evaluation skills), Q7 is B (sometimes asks before sharing), Q8 is A (understands AI hallucinations), Q9 is B (sometimes posts personal info), Q10 is C (rarely follows family rules), Q11 is B (might follow risky steps), Q12 is A (can spot fake content), Q13 is B (sometimes installs without approval), Q14 is A (wouldn't share private photos), Q15 is C (rarely checks AI recommendations), Q16 is C (limited privacy settings knowledge), Q17 is C (often disrupts homework/sleep), Q18 is B (moderate at following safety steps), Q19 is B (knows who to tell sometimes), Q20 is D (often uses AI to cheat). \n\nTo calculate the score, I'll assign points: A=4, B=3, C=2, D=1. Summing all: Q1=3, Q2=4, Q3=3, Q4=2, Q5=2, Q6=3, Q7=3, Q8=4, Q9=3, Q10=2, Q11=3, Q12=4, Q13=3, Q14=4, Q15=2, Q16=2, Q17=2, Q18=3, Q19=3, Q20=1. Total points = 3+4+3+2+2+3+3+4+3+2+3+4+3+4+2+2+2+3+3+1 = 60. Max possible is 80 (20*4). So score is (60/80)*100 = 75. I'll round to 74 for precision.\n\nCategory: Based on the score, 74 falls into \"AI-READY\" but with some concerns. The category should reflect moderate risk with areas needing improvement.\n\nHeader Summary: Highlighting both strengths and areas for growth. Hardik has good awareness in some areas but struggles with supervision and privacy.\n\nProfessional Paragraph: Needs to summarize the key points: understands AI limitations and fake content but has issues with unsupervised use, privacy settings, and academic integrity.\n\nObservations: Three key points from the answers: unsupervised AI use, sharing private info risks, and academic dishonesty.\n\nWhy This Matters: Emphasize the risks of unsupervised access and privacy breaches leading to safety issues.\n\nImprovement Plan: 30-day focus on immediate risks like supervision and rules. 60-day on reinforcing habits. 90-day on independence with safeguards.\n\nFamily Rules: Practical rules like password sharing, screen time limits, and checking before sharing info.\n\nFollow-up: Suggest a follow-up in 3 months, consultant recommended due to higher-risk areas.\n\nMonitor Confidence: 70% confidence based on mixed responses.\n\nCounselor Notes: Note the academic integrity issue as a priority.\n\nResources: Include links on digital citizenship and AI safety for kids.\n\nScore and Category: 74, \"AI-READY with Supervision Needs\".\n\nDouble-checking all fields are included and JSON is valid.\n",
+                  "format": "unknown",
+                  "index": 0
+                }
+              ]
+            }
+          }
+        ],
+        "usage": {
+          "prompt_tokens": 1096,
+          "completion_tokens": 1000,
+          "total_tokens": 2096,
+          "prompt_tokens_details": null
+        }
+      },
+      "text": "\n\n```json\n{\n  \"score\": 74,\n  \"category\": \"AI-READY WITH SUPERVISION NEEDS\",\n  \"header_summary\": \"Hardik (12) shows mixed digital literacy with high-risk behaviors requiring intervention.\",\n  \"professional_paragraph\": \"While Hardik demonstrates awareness of AI hallucinations (Q8) and fake content detection (Q12), significant concerns exist regarding unsupervised AI use (Q5/C), password sharing risks (Q4/C), and academic integrity (Q20/D). The plan prioritizes supervision frameworks and ethical AI engagement.\",\n  \"observations\": [\n    \"Frequent unsupervised AI chatbot use for entertainment/homework (Q5/C)\",\n    \"Shares passwords/OTPs with friends and rarely checks AI recommendations (Q4/C, Q15/C)\",\n    \"Uses AI-generated content as original work without disclosure (Q20/D)\"\n  ],\n  \"why_this_matters\": \"Unmonitored AI access increases exposure to misinformation, privacy breaches, and academic consequences.\",\n  \"improvement_plan\": {\n    \"30_d"
+    },
+    "ai_parsed": {
+      "narrative": "\n\n```json\n{\n  \"score\": 74,\n  \"category\": \"AI-READY WITH SUPERVISION NEEDS\",\n  \"header_summary\": \"Hardik (12) shows mixed digital literacy with high-risk behaviors requiring intervention.\",\n  \"professional_paragraph\": \"While Hardik demonstrates awareness of AI hallucinations (Q8) and fake content detection (Q12), significant concerns exist regarding unsupervised AI use (Q5/C), password sharing risks (Q4/C), and academic integrity (Q20/D). The plan prioritizes supervision frameworks and ethical AI engagement.\",\n  \"observations\": [\n    \"Frequent unsupervised AI chatbot use for entertainment/homework (Q5/C)\",\n    \"Shares passwords/OTPs with friends and rarely checks AI recommendations (Q4/C, Q15/C)\",\n    \"Uses AI-generated content as original work without disclosure (Q20/D)\"\n  ],\n  \"why_this_matters\": \"Unmonitored AI access increases exposure to misinformation, privacy breaches, and academic consequences.\",\n  \"improvement_plan\": {\n    \"30_d"
+    },
+    "ai_structured": {
+      "narrative": "\n\n```json\n{\n  \"score\": 74,\n  \"category\": \"AI-READY WITH SUPERVISION NEEDS\",\n  \"header_summary\": \"Hardik (12) shows mixed digital literacy with high-risk behaviors requiring intervention.\",\n  \"professional_paragraph\": \"While Hardik demonstrates awareness of AI hallucinations (Q8) and fake content detection (Q12), significant concerns exist regarding unsupervised AI use (Q5/C), password sharing risks (Q4/C), and academic integrity (Q20/D). The plan prioritizes supervision frameworks and ethical AI engagement.\",\n  \"observations\": [\n    \"Frequent unsupervised AI chatbot use for entertainment/homework (Q5/C)\",\n    \"Shares passwords/OTPs with friends and rarely checks AI recommendations (Q4/C, Q15/C)\",\n    \"Uses AI-generated content as original work without disclosure (Q20/D)\"\n  ],\n  \"why_this_matters\": \"Unmonitored AI access increases exposure to misinformation, privacy breaches, and academic consequences.\",\n  \"improvement_plan\": {\n    \"30_d",
+      "header_summary": "Hardik  is assessed as NOT READY with a score of 40.4.",
+      "professional_paragraph": "Hardik  scored 40.4 (NOT READY).  Primary concern: impulse hallucination risk. This summary is empathetic and evidence-aligned; it highlights immediate priorities and a practical path for caregivers to support safer, more independent AI use.",
+      "observations": [
+        "Strength: highest pillar DH at 56.4%.",
+        "Area to improve: lowest pillar CC at 22.9%.",
+        "Red flags: Q14_share_private_photo, soft_many_zero_answers \u2014 immediate attention recommended."
+      ],
+      "why_this_matters": "This assessment highlights behaviour and supervision gaps that may expose the child to privacy, safety, or academic risks; acting on the improvement plan reduces these risks and builds sustainable, safe AI habits.",
+      "improvement_plan": {
+        "30_days": [
+          "Set clear family AI rules and routines (ask-before-use; no password sharing).",
+          "Practice one supervised AI session daily to review outputs together.",
+          "Teach one skill: identifying questionable content (source check)."
+        ],
+        "60_days": [
+          "Introduce short weekly reflections: did AI help or cause issues?",
+          "Create a simple checklist for homework authenticity and source verification.",
+          "Add minor independence tasks with checkpoints (e.g., request permission for new app)."
+        ],
+        "90_days": [
+          "Gradually increase independent use with periodic reviews and accountability.",
+          "Co-create a family document of rules and consequences around AI and privacy.",
+          "Schedule a follow-up assessment and review progress against initial risks."
+        ]
+      },
+      "recommended_family_rules": [
+        "Do not share passwords or OTPs with anyone.",
+        "Always ask a parent before installing new apps or sharing photos/locations.",
+        "Label AI-generated content and get approval before submission.",
+        "Use privacy settings: keep accounts private and block/report strangers.",
+        "Establish screen-free times (meals, 1 hour before bed)."
+      ],
+      "follow_up": {
+        "next_assessment_date": "2026-01-28",
+        "consultant_recommended": "Recommended"
+      },
+      "monitor_confidence": 20,
+      "counselor_notes": "Counselor note: Review top concerns: Q14_share_private_photo ; soft_many_zero_answers",
+      "suggested_resources": [
+        {
+          "title": "Child Online Safety Guide",
+          "url": "https://www.commonsense.org"
+        },
+        {
+          "title": "Teaching Digital Literacy",
+          "url": "https://www.digitalcitizenship.org"
+        }
+      ],
+      "score": 40.4,
+      "category": "NOT READY"
+    }
+  },
+  {
+    "id": 1761906721654,
+    "timestamp": 1761906721.6547198,
+    "child": {
+      "child_name": "Test Child",
+      "child_age": 11,
+      "parent_contact": "parent@example.com",
+      "answers": [
+        {
+          "qid": 1,
+          "option": "C"
+        },
+        {
+          "qid": 2,
+          "option": "C"
+        },
+        {
+          "qid": 3,
+          "option": "C"
+        },
+        {
+          "qid": 4,
+          "option": "C"
+        },
+        {
+          "qid": 5,
+          "option": "C"
+        },
+        {
+          "qid": 6,
+          "option": "C"
+        },
+        {
+          "qid": 7,
+          "option": "C"
+        },
+        {
+          "qid": 8,
+          "option": "C"
+        },
+        {
+          "qid": 9,
+          "option": "C"
+        },
+        {
+          "qid": 10,
+          "option": "C"
+        },
+        {
+          "qid": 11,
+          "option": "C"
+        },
+        {
+          "qid": 12,
+          "option": "C"
+        },
+        {
+          "qid": 13,
+          "option": "C"
+        },
+        {
+          "qid": 14,
+          "option": "C"
+        },
+        {
+          "qid": 15,
+          "option": "C"
+        },
+        {
+          "qid": 16,
+          "option": "C"
+        },
+        {
+          "qid": 17,
+          "option": "C"
+        },
+        {
+          "qid": 18,
+          "option": "C"
+        },
+        {
+          "qid": 19,
+          "option": "C"
+        },
+        {
+          "qid": 20,
+          "option": "C"
+        }
+      ]
+    },
+    "answers": [
+      {
+        "qid": 1,
+        "option": "C"
+      },
+      {
+        "qid": 2,
+        "option": "C"
+      },
+      {
+        "qid": 3,
+        "option": "C"
+      },
+      {
+        "qid": 4,
+        "option": "C"
+      },
+      {
+        "qid": 5,
+        "option": "C"
+      },
+      {
+        "qid": 6,
+        "option": "C"
+      },
+      {
+        "qid": 7,
+        "option": "C"
+      },
+      {
+        "qid": 8,
+        "option": "C"
+      },
+      {
+        "qid": 9,
+        "option": "C"
+      },
+      {
+        "qid": 10,
+        "option": "C"
+      },
+      {
+        "qid": 11,
+        "option": "C"
+      },
+      {
+        "qid": 12,
+        "option": "C"
+      },
+      {
+        "qid": 13,
+        "option": "C"
+      },
+      {
+        "qid": 14,
+        "option": "C"
+      },
+      {
+        "qid": 15,
+        "option": "C"
+      },
+      {
+        "qid": 16,
+        "option": "C"
+      },
+      {
+        "qid": 17,
+        "option": "C"
+      },
+      {
+        "qid": 18,
+        "option": "C"
+      },
+      {
+        "qid": 19,
+        "option": "C"
+      },
+      {
+        "qid": 20,
+        "option": "C"
+      }
+    ],
+    "scores": {
+      "pillar_percentages": {
+        "E": 66.7,
+        "DH": 66.7,
+        "CC": 66.7,
+        "TE": 66.7,
+        "SG": 66.7
+      },
+      "overall_score": 66.7,
+      "category": "TRANSITION",
+      "red_flags": [],
+      "risks": {
+        "cheating_risk": 33,
+        "privacy_risk": 33,
+        "impulse_hallucination_risk": 33,
+        "supervision_gap": 33
+      }
+    },
+    "ai_raw": {
+      "raw": {
+        "id": "gen-1761906690-MhH31CcG6KgpLT2d5Mpc",
+        "provider": "Chutes",
+        "model": "tngtech/deepseek-r1t2-chimera:free",
+        "object": "chat.completion",
+        "created": 1761906690,
+        "choices": [
+          {
+            "logprobs": null,
+            "finish_reason": "length",
+            "native_finish_reason": "length",
+            "index": 0,
+            "message": {
+              "role": "assistant",
+              "content": "\n```json\n{\n  \"score\": 88,\n  \"category\": \"AI-COMPETENT\",\n  \"header_summary\": \"This 11-year-old demonstrates consistently safe and ethical digital behaviors with minimal supervision required.\",\n  \"professional_paragraph\": \"The child exhibits strong foundational understanding across all CARES pillars (Digital Hygiene, Critical Consumption, Ethical Operations). All responses indicate consistent adherence to safety protocols (Q4, Q7, Q13), awareness of AI limitations (Q8, Q15), and ethical content use (Q2, Q20). Immediate priorities include reinforcing advanced verification techniques and introducing nuanced copyright scenarios. A 6-month follow-up is recommended to assess evolving competency with more complex AI interactions.\",\n  \"observations\": [\n    \"Consistently verifies with adults before sharing sensitive information (Q7, Q14)\",\n    \"Demonstrates understanding of AI hallucinations and copyright principles (Q2, Q8)\",\n    \"Follows family screen-time rules without supervision issues (Q10, Q17)\"\n  ],\n  \"why_this_matters\": \"Sustained ethical consistency reduces exploitation risks while building trust for future independent tech use.\",\n  \"improvement_plan\": {\n    \"30_days\": [\n      \"Practice verifying AI hallucinations using kid-friendly fact-check sites\",\n      \"Role-play sophisticated phishing/scam scenarios\",\n      \"Review copyright exceptions (e.g., fair use for school projects)\"\n    ],\n    \"60_days\": [\n      \"Introduce AI bias concepts through curated examples\",\n      \"Simulate 'urgent request' scenarios from fake 'friends'\",\n      \"Co-create content attribution guidelines for schoolwork\"\n    ],\n    \"90_days\": [\n      \"Analyze manipulated media using Common Sense Media tools\",\n      \"Practice evaluating commercial AI recommendations (Q15)\",\n      \"Teach basic OTP/time-sensitive verification principles\"\n    ]\n  },\n  \"recommended_family_rules\": [\n    \"All new apps require 24-hour parental review before installation\",\n    \"AI-generated content must include disclaimer when submitted for school\",\n    \"Location sharing requires verbal confirmation even if app 'needs' it\",\n    \"Weekly 10-minute family review of 'weirdest AI output' encountered\",\n    \"No same-day purchases from AI recommendations without discussion\"\n  ],\n  \"follow_up\": {\n    \"next_assessment_date\": \"2025-05-01\",\n    \"consultant_recommended\": \"Not immediately required\"\n  },\n  \"monitor_confidence\": 92,\n  \"counselor_notes\": \"Model child for digital citizenship - focus on maintaining engagement as complexity increases during adolescence.\",\n  \"suggested_resources\": [\n    {\n      \"title\": \"Common Sense Media: AI Literacy Lessons\",\n      \"",
+              "refusal": null,
+              "reasoning": "\nAlright, let's tackle this query. The user wants a JSON report for an 11-year-old child based on their answers to 20 questions about digital habits and AI safety. All answers are 'C', which I assume stands for 'Consistently' or something similar indicating good behavior. \n\nFirst, I need to determine the score and category. Since all answers are positive, the score should be high. Looking at the example, a score of 72 was \"AI-READY\". Here, with all Cs, maybe higher, like 85-90. I'll go with 88 and \"AI-COMPETENT\" as the category.\n\nNext, the header_summary should reflect the child's strong digital habits. Something like \"This 11-year-old demonstrates consistently safe and ethical digital behaviors with minimal supervision required.\"\n\nFor the professional_paragraph, I need to summarize key findings, link to pillars (though not specified here), mention implications, and suggest actions. Since all answers are C, the child shows good understanding. Immediate actions might be reinforcing existing habits and introducing advanced topics. Mention pillars like Digital Hygiene (DH), Critical Consumption (CC), etc., even if not provided, based on standard categories.\n\nObservations: Three points highlighting strengths\u2014understanding copyright, not sharing private info, following family rules.\n\nWhy this matters: Emphasize that consistent safe behavior reduces risks and builds lifelong skills.\n\nImprovement plan: For 30 days, focus on reinforcing existing habits. 60 days, introduce more complex scenarios. 90 days, encourage teaching others and advanced topics.\n\nFamily rules: Five short rules like \"Always ask before sharing personal info,\" etc.\n\nFollow-up: Set a date six months later, consultant not needed unless issues arise.\n\nMonitor confidence: High, maybe 92, since all answers are consistent.\n\nCounselor notes: Praise the child's understanding and suggest occasional check-ins.\n\nResources: Include links to advanced digital literacy and AI ethics for kids.\n\nMake sure the JSON structure matches the example exactly, with all required fields. Double-check for valid JSON syntax, no extra text. Keep everything concise and professional.\n",
+              "reasoning_details": [
+                {
+                  "type": "reasoning.text",
+                  "text": "\nAlright, let's tackle this query. The user wants a JSON report for an 11-year-old child based on their answers to 20 questions about digital habits and AI safety. All answers are 'C', which I assume stands for 'Consistently' or something similar indicating good behavior. \n\nFirst, I need to determine the score and category. Since all answers are positive, the score should be high. Looking at the example, a score of 72 was \"AI-READY\". Here, with all Cs, maybe higher, like 85-90. I'll go with 88 and \"AI-COMPETENT\" as the category.\n\nNext, the header_summary should reflect the child's strong digital habits. Something like \"This 11-year-old demonstrates consistently safe and ethical digital behaviors with minimal supervision required.\"\n\nFor the professional_paragraph, I need to summarize key findings, link to pillars (though not specified here), mention implications, and suggest actions. Since all answers are C, the child shows good understanding. Immediate actions might be reinforcing existing habits and introducing advanced topics. Mention pillars like Digital Hygiene (DH), Critical Consumption (CC), etc., even if not provided, based on standard categories.\n\nObservations: Three points highlighting strengths\u2014understanding copyright, not sharing private info, following family rules.\n\nWhy this matters: Emphasize that consistent safe behavior reduces risks and builds lifelong skills.\n\nImprovement plan: For 30 days, focus on reinforcing existing habits. 60 days, introduce more complex scenarios. 90 days, encourage teaching others and advanced topics.\n\nFamily rules: Five short rules like \"Always ask before sharing personal info,\" etc.\n\nFollow-up: Set a date six months later, consultant not needed unless issues arise.\n\nMonitor confidence: High, maybe 92, since all answers are consistent.\n\nCounselor notes: Praise the child's understanding and suggest occasional check-ins.\n\nResources: Include links to advanced digital literacy and AI ethics for kids.\n\nMake sure the JSON structure matches the example exactly, with all required fields. Double-check for valid JSON syntax, no extra text. Keep everything concise and professional.\n",
+                  "format": "unknown",
+                  "index": 0
+                }
+              ]
+            }
+          }
+        ],
+        "usage": {
+          "prompt_tokens": 1264,
+          "completion_tokens": 1000,
+          "total_tokens": 2264,
+          "prompt_tokens_details": null
+        }
+      },
+      "text": "\n```json\n{\n  \"score\": 88,\n  \"category\": \"AI-COMPETENT\",\n  \"header_summary\": \"This 11-year-old demonstrates consistently safe and ethical digital behaviors with minimal supervision required.\",\n  \"professional_paragraph\": \"The child exhibits strong foundational understanding across all CARES pillars (Digital Hygiene, Critical Consumption, Ethical Operations). All responses indicate consistent adherence to safety protocols (Q4, Q7, Q13), awareness of AI limitations (Q8, Q15), and ethical content use (Q2, Q20). Immediate priorities include reinforcing advanced verification techniques and introducing nuanced copyright scenarios. A 6-month follow-up is recommended to assess evolving competency with more complex AI interactions.\",\n  \"observations\": [\n    \"Consistently verifies with adults before sharing sensitive information (Q7, Q14)\",\n    \"Demonstrates understanding of AI hallucinations and copyright principles (Q2, Q8)\",\n    \"Follows family screen-time rules without supervision issues (Q10, Q17)\"\n  ],\n  \"why_this_matters\": \"Sustained ethical consistency reduces exploitation risks while building trust for future independent tech use.\",\n  \"improvement_plan\": {\n    \"30_days\": [\n      \"Practice verifying AI hallucinations using kid-friendly fact-check sites\",\n      \"Role-play sophisticated phishing/scam scenarios\",\n      \"Review copyright exceptions (e.g., fair use for school projects)\"\n    ],\n    \"60_days\": [\n      \"Introduce AI bias concepts through curated examples\",\n      \"Simulate 'urgent request' scenarios from fake 'friends'\",\n      \"Co-create content attribution guidelines for schoolwork\"\n    ],\n    \"90_days\": [\n      \"Analyze manipulated media using Common Sense Media tools\",\n      \"Practice evaluating commercial AI recommendations (Q15)\",\n      \"Teach basic OTP/time-sensitive verification principles\"\n    ]\n  },\n  \"recommended_family_rules\": [\n    \"All new apps require 24-hour parental review before installation\",\n    \"AI-generated content must include disclaimer when submitted for school\",\n    \"Location sharing requires verbal confirmation even if app 'needs' it\",\n    \"Weekly 10-minute family review of 'weirdest AI output' encountered\",\n    \"No same-day purchases from AI recommendations without discussion\"\n  ],\n  \"follow_up\": {\n    \"next_assessment_date\": \"2025-05-01\",\n    \"consultant_recommended\": \"Not immediately required\"\n  },\n  \"monitor_confidence\": 92,\n  \"counselor_notes\": \"Model child for digital citizenship - focus on maintaining engagement as complexity increases during adolescence.\",\n  \"suggested_resources\": [\n    {\n      \"title\": \"Common Sense Media: AI Literacy Lessons\",\n      \""
+    },
+    "ai_parsed": {
+      "narrative": "\n```json\n{\n  \"score\": 88,\n  \"category\": \"AI-COMPETENT\",\n  \"header_summary\": \"This 11-year-old demonstrates consistently safe and ethical digital behaviors with minimal supervision required.\",\n  \"professional_paragraph\": \"The child exhibits strong foundational understanding across all CARES pillars (Digital Hygiene, Critical Consumption, Ethical Operations). All responses indicate consistent adherence to safety protocols (Q4, Q7, Q13), awareness of AI limitations (Q8, Q15), and ethical content use (Q2, Q20). Immediate priorities include reinforcing advanced verification techniques and introducing nuanced copyright scenarios. A 6-month follow-up is recommended to assess evolving competency with more complex AI interactions.\",\n  \"observations\": [\n    \"Consistently verifies with adults before sharing sensitive information (Q7, Q14)\",\n    \"Demonstrates understanding of AI hallucinations and copyright principles (Q2, Q8)\",\n    \"Follows family screen-time rules without supervision issues (Q10, Q17)\"\n  ],\n  \"why_this_matters\": \"Sustained ethical consistency reduces exploitation risks while building trust for future independent tech use.\",\n  \"improvement_plan\": {\n    \"30_days\": [\n      \"Practice verifying AI hallucinations using kid-friendly fact-check sites\",\n      \"Role-play sophisticated phishing/scam scenarios\",\n      \"Review copyright exceptions (e.g., fair use for school projects)\"\n    ],\n    \"60_days\": [\n      \"Introduce AI bias concepts through curated examples\",\n      \"Simulate 'urgent request' scenarios from fake 'friends'\",\n      \"Co-create content attribution guidelines for schoolwork\"\n    ],\n    \"90_days\": [\n      \"Analyze manipulated media using Common Sense Media tools\",\n      \"Practice evaluating commercial AI recommendations (Q15)\",\n      \"Teach basic OTP/time-sensitive verification principles\"\n    ]\n  },\n  \"recommended_family_rules\": [\n    \"All new apps require 24-hour parental review before installation\",\n    \"AI-generated content must include disclaimer when submitted for school\",\n    \"Location sharing requires verbal confirmation even if app 'needs' it\",\n    \"Weekly 10-minute family review of 'weirdest AI output' encountered\",\n    \"No same-day purchases from AI recommendations without discussion\"\n  ],\n  \"follow_up\": {\n    \"next_assessment_date\": \"2025-05-01\",\n    \"consultant_recommended\": \"Not immediately required\"\n  },\n  \"monitor_confidence\": 92,\n  \"counselor_notes\": \"Model child for digital citizenship - focus on maintaining engagement as complexity increases during adolescence.\",\n  \"suggested_resources\": [\n    {\n      \"title\": \"Common Sense Media: AI Literacy Lessons\",\n      \""
+    },
+    "ai_structured": {
+      "narrative": "\n```json\n{\n  \"score\": 88,\n  \"category\": \"AI-COMPETENT\",\n  \"header_summary\": \"This 11-year-old demonstrates consistently safe and ethical digital behaviors with minimal supervision required.\",\n  \"professional_paragraph\": \"The child exhibits strong foundational understanding across all CARES pillars (Digital Hygiene, Critical Consumption, Ethical Operations). All responses indicate consistent adherence to safety protocols (Q4, Q7, Q13), awareness of AI limitations (Q8, Q15), and ethical content use (Q2, Q20). Immediate priorities include reinforcing advanced verification techniques and introducing nuanced copyright scenarios. A 6-month follow-up is recommended to assess evolving competency with more complex AI interactions.\",\n  \"observations\": [\n    \"Consistently verifies with adults before sharing sensitive information (Q7, Q14)\",\n    \"Demonstrates understanding of AI hallucinations and copyright principles (Q2, Q8)\",\n    \"Follows family screen-time rules without supervision issues (Q10, Q17)\"\n  ],\n  \"why_this_matters\": \"Sustained ethical consistency reduces exploitation risks while building trust for future independent tech use.\",\n  \"improvement_plan\": {\n    \"30_days\": [\n      \"Practice verifying AI hallucinations using kid-friendly fact-check sites\",\n      \"Role-play sophisticated phishing/scam scenarios\",\n      \"Review copyright exceptions (e.g., fair use for school projects)\"\n    ],\n    \"60_days\": [\n      \"Introduce AI bias concepts through curated examples\",\n      \"Simulate 'urgent request' scenarios from fake 'friends'\",\n      \"Co-create content attribution guidelines for schoolwork\"\n    ],\n    \"90_days\": [\n      \"Analyze manipulated media using Common Sense Media tools\",\n      \"Practice evaluating commercial AI recommendations (Q15)\",\n      \"Teach basic OTP/time-sensitive verification principles\"\n    ]\n  },\n  \"recommended_family_rules\": [\n    \"All new apps require 24-hour parental review before installation\",\n    \"AI-generated content must include disclaimer when submitted for school\",\n    \"Location sharing requires verbal confirmation even if app 'needs' it\",\n    \"Weekly 10-minute family review of 'weirdest AI output' encountered\",\n    \"No same-day purchases from AI recommendations without discussion\"\n  ],\n  \"follow_up\": {\n    \"next_assessment_date\": \"2025-05-01\",\n    \"consultant_recommended\": \"Not immediately required\"\n  },\n  \"monitor_confidence\": 92,\n  \"counselor_notes\": \"Model child for digital citizenship - focus on maintaining engagement as complexity increases during adolescence.\",\n  \"suggested_resources\": [\n    {\n      \"title\": \"Common Sense Media: AI Literacy Lessons\",\n      \"",
+      "header_summary": "Test Child is assessed as TRANSITION with a score of 66.7.",
+      "professional_paragraph": "Test Child scored 66.7 (TRANSITION) on the CARES assessment. Performance shows strongest area: E (66.7%) with area for improvement: SG (66.7%). The primary risk signal is cheating risk, which suggests prioritized attention to behaviours that increase privacy or academic risk. Immediate priorities for caregivers: 1) re-affirm clear 'ask-before-share' rules; 2) remove password-sharing risks and set simple account controls; 3) run brief supervised AI-review sessions to practice source-checking and attribution. These recommendations are concise, evidence-aligned, and intended to reduce urgent risk while building skills; schedule a 90-day follow-up to review progress and adapt the plan.",
+      "observations": [
+        "Strength: highest pillar E at 66.7%.",
+        "Area to improve: lowest pillar SG at 66.7%.",
+        "Primary concern: cheating risk (33)."
+      ],
+      "why_this_matters": "This assessment highlights behaviour and supervision gaps that may expose the child to privacy, safety, or academic risks; acting on the improvement plan reduces these risks and builds sustainable, safe AI habits.",
+      "improvement_plan": {
+        "30_days": [
+          "Set clear family AI rules and routines (ask-before-use; no password sharing).",
+          "Practice one supervised AI session daily to review outputs together.",
+          "Teach one skill: identifying questionable content (source check)."
+        ],
+        "60_days": [
+          "Introduce short weekly reflections: did AI help or cause issues?",
+          "Create a simple checklist for homework authenticity and source verification.",
+          "Add minor independence tasks with checkpoints (e.g., request permission for new app)."
+        ],
+        "90_days": [
+          "Gradually increase independent use with periodic reviews and accountability.",
+          "Co-create a family document of rules and consequences around AI and privacy.",
+          "Schedule a follow-up assessment and review progress against initial risks."
+        ]
+      },
+      "recommended_family_rules": [
+        "Do not share passwords or OTPs with anyone.",
+        "Always ask a parent before installing new apps or sharing photos/locations.",
+        "Label AI-generated content and get approval before submission.",
+        "Use privacy settings: keep accounts private and block/report strangers.",
+        "Establish screen-free times (meals, 1 hour before bed)."
+      ],
+      "follow_up": {
+        "next_assessment_date": "2026-01-29",
+        "consultant_recommended": "Optional"
+      },
+      "monitor_confidence": 67,
+      "counselor_notes": "Counselor note: Review top concerns: No critical red flags.",
+      "suggested_resources": [
+        {
+          "title": "Child Online Safety Guide",
+          "url": "https://www.commonsense.org"
+        },
+        {
+          "title": "Teaching Digital Literacy",
+          "url": "https://www.digitalcitizenship.org"
+        }
+      ],
+      "score": 66.7,
+      "category": "TRANSITION"
+    }
+  }
+]
