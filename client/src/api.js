@@ -1,7 +1,10 @@
 import axios from 'axios'
 
+// Use Vite environment variable in production (Vercel). Fallback to localhost for local dev.
+const BASE = import.meta.env.VITE_API_URL || 'http://localhost:8000'
+
 const API = axios.create({
-  baseURL: 'http://localhost:8000',
+  baseURL: BASE,
   // increase timeout to 60s to accommodate slower AI responses
   timeout: 60000,
 })
