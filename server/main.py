@@ -15,8 +15,6 @@ load_dotenv()
 
 # read the API key from environment
 OPENROUTER_API_KEY = os.getenv("OPENROUTER_API_KEY")
-# Optional toggle to bypass external AI during testing. Set to "true" in environment to use local synthesizer only.
-USE_LOCAL_AI = os.getenv("USE_LOCAL_AI", "false").lower() == "true"
 REPORTS_FILE = os.path.join(os.path.dirname(__file__), "reports.json")
 
 app = FastAPI(title="CARES MVP API")
@@ -442,26 +440,21 @@ def assess(payload: AssessmentIn):
     answers = [a.dict() for a in payload.answers]
     scores = compute_scores(answers)
 
-    # build prompt and call model (or use local synthesizer if toggled)
+    # build prompt and call model
     summary = build_summary_payload(payload.dict(), answers)
-    ai = None
-    if USE_LOCAL_AI:
-        # Skip external call and let synthesizer create a full structured report
-        ai = {"raw": None, "text": None}
-    else:
-        try:
-            ai = call_openrouter(summary)
-        except HTTPException as e:
-            # Save a minimal report and re-raise so the error shows in logs/response
-            report = {
-                "id": int(time.time() * 1000),
-                "timestamp": time.time(),
-                "child": payload.dict(),
-                "scores": scores,
-                "ai": None,
-            }
-            save_report(report)
-            raise
+    try:
+        ai = call_openrouter(summary)
+    except HTTPException:
+        # Save a minimal report and re-raise
+        report = {
+            "id": int(time.time() * 1000),
+            "timestamp": time.time(),
+            "child": payload.dict(),
+            "scores": scores,
+            "ai": None,
+        }
+        save_report(report)
+        raise
 
     # Attempt to parse AI text as JSON, including JSON inside code fences or surrounding text
     parsed_ai_json = None
@@ -544,14 +537,6 @@ def health():
 def root():
     return {"message": "CARES backend is running", "version": "0.1.0"}
 
-
-@app.get("/_debug/key_set")
-def debug_key():
-    """Debug endpoint that reports whether OPENROUTER_API_KEY is present (boolean). Safe to expose.
-
-    This helps confirm that Render/host environment has the secret set without revealing its value.
-    """
-    return {"OPENROUTER_API_KEY_set": bool(os.getenv("OPENROUTER_API_KEY"))}
 
 
 if __name__ == "__main__":
