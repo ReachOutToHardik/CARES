@@ -523,6 +523,30 @@ def get_report(report_id: int):
     return r
 
 
+@app.get("/health")
+def health():
+    """Health check for load balancers / platforms."""
+    return {
+        "status": "ok",
+        "service": "CARES backend",
+        "timestamp": time.time()
+    }
+
+
+@app.get("/")
+def root():
+    return {"message": "CARES backend is running", "version": "0.1.0"}
+
+
+@app.get("/_debug/key_set")
+def debug_key():
+    """Debug endpoint that reports whether OPENROUTER_API_KEY is present (boolean). Safe to expose.
+
+    This helps confirm that Render/host environment has the secret set without revealing its value.
+    """
+    return {"OPENROUTER_API_KEY_set": bool(os.getenv("OPENROUTER_API_KEY"))}
+
+
 if __name__ == "__main__":
     import uvicorn
     uvicorn.run("main:app", host=os.getenv('BACKEND_HOST', '127.0.0.1'), port=int(os.getenv('BACKEND_PORT', 8000)), reload=True)
