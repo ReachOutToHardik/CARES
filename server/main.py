@@ -296,9 +296,11 @@ def synthesize_report(parsed: Dict[str, Any], scores: Dict[str, Any], child: Dic
         name = child.get('child_name') or 'The child'
         # Determine top risks and pillar strengths/weaknesses
         top_risk = None
+        top_risk_value = 0
         if risks:
             risk_items = sorted(risks.items(), key=lambda x: x[1], reverse=True)
-            top_risk = risk_items[0][0].replace('_', ' ') if risk_items else None
+            if risk_items:
+                top_risk, top_risk_value = risk_items[0][0].replace('_', ' '), risk_items[0][1]
 
         # find strongest and weakest pillars
         pillar_lines = []
@@ -319,14 +321,23 @@ def synthesize_report(parsed: Dict[str, Any], scores: Dict[str, Any], child: Dic
         sentences.append(f"{name} scored {overall} ({category}) on the CARES assessment.")
         if pillar_lines:
             sentences.append(f"Performance shows {pillar_lines[0]} with {pillar_lines[1]}.")
-        if top_risk:
-            sentences.append(f"The primary risk signal is {top_risk}, which suggests prioritized attention to behaviours that increase privacy or academic risk.")
+        # Only mention a primary risk if it exceeds a reasonable threshold (avoid false alarms for very small risks)
+        RISK_MENTION_THRESHOLD = 40
+        if top_risk and top_risk_value >= RISK_MENTION_THRESHOLD:
+            sentences.append(f"The primary risk signal is {top_risk} ({top_risk_value}%), which suggests prioritized attention to behaviours that increase privacy or academic risk.")
         if rf_line:
             sentences.append(rf_line)
 
-        # Immediate priorities and tone
-        sentences.append("Immediate priorities for caregivers: 1) re-affirm clear 'ask-before-share' rules; 2) remove password-sharing risks and set simple account controls; 3) run brief supervised AI-review sessions to practice source-checking and attribution.")
-        sentences.append("These recommendations are concise, evidence-aligned, and intended to reduce urgent risk while building skills; schedule a 90-day follow-up to review progress and adapt the plan.")
+        # Immediate priorities and tone: if overall is very high and there are no red flags, produce a short, positive paragraph
+        if overall >= 90 and not red_flags and (not top_risk or top_risk_value < RISK_MENTION_THRESHOLD):
+            sentences = [
+                f"{name} scored {overall} ({category}) on the CARES assessment, demonstrating excellent digital habits across measured pillars.",
+                "No immediate safety concerns identified; continue current supervision and digital routines.",
+                "A routine 90-day check-in is suggested to ensure sustained habits."
+            ]
+        else:
+            sentences.append("Immediate priorities for caregivers: 1) re-affirm clear 'ask-before-share' rules; 2) remove password-sharing risks and set simple account controls; 3) run brief supervised AI-review sessions to practice source-checking and attribution.")
+            sentences.append("These recommendations are concise, evidence-aligned, and intended to reduce urgent risk while building skills; schedule a 90-day follow-up to review progress and adapt the plan.")
 
         para = ' '.join(sentences)
         out['professional_paragraph'] = para
