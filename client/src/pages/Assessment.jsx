@@ -71,18 +71,22 @@ export default function Assessment(){
           <div key={q.id} className="question">
             <p><strong>Q{q.id}.</strong> {q.text}</p>
             <div className="options" style={{display:'flex',gap:10,flexWrap:'wrap'}}>
-              {OPTIONS.map(o => (
-                <label key={o.key} style={{background:'#fff',border:'1px solid #eef4ff',padding:'8px 10px',borderRadius:8,display:'flex',alignItems:'center',gap:8}}>
-                  <input
-                    type="radio"
-                    name={`q${q.id}`}
-                    value={o.key}
-                    checked={answers[q.id] === o.key}
-                    onChange={() => setAnswer(q.id, o.key)}
-                    required
-                  /> <span style={{fontSize:13}}>{o.label}</span>
-                </label>
-              ))}
+              {(() => {
+                const keys = ['A','B','C','D']
+                const opts = q.choices ? keys.map(k => ({ key: k, label: q.choices[k] })) : OPTIONS
+                return opts.map(o => (
+                  <label key={o.key} style={{background:'#fff',border:'1px solid #eef4ff',padding:'8px 10px',borderRadius:8,display:'flex',alignItems:'center',gap:8}}>
+                    <input
+                      type="radio"
+                      name={`q${q.id}`}
+                      value={o.key}
+                      checked={answers[q.id] === o.key}
+                      onChange={() => setAnswer(q.id, o.key)}
+                      required
+                    /> <span style={{fontSize:13}}>{o.label}</span>
+                  </label>
+                ))
+              })()}
             </div>
           </div>
         ))}

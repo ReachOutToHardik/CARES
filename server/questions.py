@@ -144,10 +144,10 @@ QUESTIONS: List[Dict] = [
 ]
 
 OPTIONS = [
-    {"key": "A", "label": "A) Strongly concerning / Never / Yes (bad)", "score": 0},
-    {"key": "B", "label": "B) Some concern / Rarely / Sometimes (bad-ish)", "score": 1},
-    {"key": "C", "label": "C) Mostly okay / Often / Usually (ok)", "score": 2},
-    {"key": "D", "label": "D) Good / Always / No (good)", "score": 3},
+    {"key": "A", "label": "A) 0 — High risk / Never / Yes (bad)", "score": 0},
+    {"key": "B", "label": "B) 1 — Some concern / Rarely / Sometimes", "score": 1},
+    {"key": "C", "label": "C) 2 — Mostly okay / Often / Usually", "score": 2},
+    {"key": "D", "label": "D) 3 — Low risk / Good / Always / No", "score": 3},
 ]
 
 PILLAR_WEIGHTS = {
